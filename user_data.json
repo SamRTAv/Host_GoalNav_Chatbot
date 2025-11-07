@@ -1,0 +1,145 @@
+{
+  "users": {
+    "c": "c123",
+    "x": "x123",
+    "m": "m123",
+    "j": "j123",
+    "k": "k123",
+    "l": "l123",
+    "i": "i123",
+    "u": "u123"
+  },
+  "user_info": {
+    "c": {
+      "Name": ".",
+      "Age": 23,
+      "Gender": "F",
+      "State": ".",
+      "Occupation": ".",
+      "Avg Screen Time (Phone)": 4.0,
+      "Avg Screen Time (PC)": 12.0,
+      "Allergies": [
+        "."
+      ],
+      "Past Medical History": ".",
+      "Current Disorders": ".",
+      "Current Medication": ".",
+      "Therapy History": ".",
+      "task_list": [
+        "Prioritize tasks by breaking down large projects into smaller, manageable chunks to reduce feelings of overwhelm and increase control over deadlines.",
+        {
+          "difficulty": "Beginner",
+          "description": "Monitor your negative thinking by examining and replacing it with positive affirmations."
+        },
+        {
+          "difficulty": "Beginner",
+          "description": "Take a few minutes to breathe and move by engaging in physical activity like a short walk or stretching exercises."
+        },
+        {
+          "difficulty": "Beginner",
+          "description": "Prioritize sleep, by aiming for 7-9 hours of sleep each night."
+        },
+        {
+          "difficulty": "Beginner",
+          "description": "Engage in activities that bring you joy, such as hobbies, creative pursuits, or other activities that help you feel relaxed and fulfilled."
+        }
+      ],
+      "timetable": {
+        "Evening": [
+          {
+            "difficulty": "Beginner",
+            "description": "Monitor your negative thinking by examining and replacing it with positive affirmations."
+          },
+          {
+            "difficulty": "Beginner",
+            "description": "Take a few minutes to breathe and move by engaging in physical activity like a short walk or stretching exercises."
+          }
+        ],
+        "Morning": [
+          {
+            "difficulty": "Beginner",
+            "description": "Engage in activities that bring you joy, such as hobbies, creative pursuits, or other activities that help you feel relaxed and fulfilled."
+          }
+        ]
+      }
+    },
+    "x": {
+      "Name": "x",
+      "Age": 22,
+      "Gender": "M",
+      "Occupation": "developer",
+      "Avg Screen Time (Phone)": 4.0,
+      "Avg Screen Time (PC)": 12.0,
+      "Current Disorders": ".",
+      "Therapy History": "."
+    },
+    "m": {
+      "Name": "mihir",
+      "Age": 23,
+      "Gender": "Male",
+      "Occupation": "social media manger",
+      "Phone Screen Time": 10,
+      "PC Screen Time": 10,
+      "Disorders": "none",
+      "Therapy History": "yes"
+    },
+    "j": {
+      "Name": "julia",
+      "Age": 25,
+      "Gender": "Female",
+      "Occupation": "freelancer",
+      "Phone Screen Time": 10,
+      "PC Screen Time": 3,
+      "Disorders": "none",
+      "Therapy History": "."
+    },
+    "k": {
+      "Name": "kangana",
+      "Age": 30,
+      "Gender": "Female",
+      "Occupation": "dancer",
+      "Phone Screen Time": 6,
+      "PC Screen Time": 3,
+      "Disorders": "none",
+      "Therapy History": "none"
+    },
+    "u": {
+      "Name": "",
+      "Age": 0,
+      "Gender": null,
+      "Occupation": "",
+      "Phone Screen Time": 0,
+      "PC Screen Time": 0,
+      "Disorders": "",
+      "Therapy History": ""
+    }
+  },
+  "focus_areas": {
+    "c": [],
+    "x": [
+      "Emotions",
+      "Meditation and Mindfulness"
+    ],
+    "m": [],
+    "j": [
+      "Stress"
+    ],
+    "k": [
+      "Stress",
+      "Sleep"
+    ],
+    "u": []
+  },
+  "problem_summaries": {
+    "m": {
+      "Sleep": "Sleep, User's sleep quality is not specified, they did not provide the number of hours they sleep per night, their biggest barrier to better sleep is not specified, they do not have a consistent sleep schedule, and they have not mentioned any specific preparations for bed or methods to overcome sleep barriers, or specific factors contributing to their biggest barrier.",
+      "Personality and Behaviour": "Personality and Behaviour, The user describes their decision-making style as thoughtful, has not noticed concerning patterns in their behaviour, reacts to criticism in a reflective manner, approaches difficult decisions by considering others' perspectives, and handles feedback by taking it constructively to improve themselves."
+    },
+    "c": {
+      "Stress": "Stress, The user experiences daily stress, feels overwhelmed daily, is unsure about their current stress management, and identifies relationships as a cause of daily stress; they think following a healthy routine and trusting God would help them feel more in control of their stress."
+    },
+    "j": {
+      "Emotions": "Emotions, No answers were provided to summarize the user's problems."
+    }
+  }
+}

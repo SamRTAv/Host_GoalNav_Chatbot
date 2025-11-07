@@ -1,0 +1,2130 @@
+
+--- Page 6 ---
+CHAPTER 15
+
+Staying Healthy:
+The Ayurvedic Way
+
+Susheel Kumar Sharma
+
+Abstract
+
+This paper argues for the need and relevance of the ancient medical
+system, Ayurveda, in the contemporary world especially during the
+pandemic COVID-19. The health system of the yore takes care of the
+identification of an illness, the causes of illness, the methodology to
+restore health and the methods of checking the spread and recurrence of
+an illness by adopting affordable means. Ayurveda, not only takes care of
+the physical, psychological, moral and spiritual being of a person (the four
+parameters of health enunciated by WHO) but also takes care of the social
+and the environmental world around him, besides paying attention to the
+supreme powers that remain invisible to the physical eyes. Largely by
+tegimenting one’s dietary habits and life-style the system charts the path of
+keeping one healthy. Ayurveda being affordable, sustainable and
+environment friendly gratifies and empowers all and it may be practiced
+independent of any Institutional (religious, social and medical)
+tegimentation. This system is fit to be adopted by all not only during the
+normal days but also during the crisis-torn period of COVID-19. The
+paper also argues that the continuation of Macaulay’s system of education
+is responsible for the modern Indians’ ignorance and poor understanding
+and appreciation of this system. The paper also focuses on the features like
+causes and cures of diseases in Ayurveda, Ayurvedic principles like
+Samanya Vishesha Siddhanta, Panch Mahabhoota Siddhanta, Tridosha
+Siddhanta, Dinacharya and Ritucharya, food and spices in Ayurveda, the
+Principles of Health Promotion, and handling of Epidemics in Ayurveda.
+
+Keywords: Ayurveda, Charak, Dinacharya, Pandemics, Food, Health,
+COVID-19, Ritucharya, Spices, Sushruta, Vagbhata, WHO
+
+Introduction
+
+This paper is an intervention in the controversy between an article
+(Ghosal and Wang) which appeared in The New York Times on April
+17, 2020 and its rebuttal (Aywsh) by the Indian Government after
+
+
+--- Page 7 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 287
+
+which the article has been blocked from further dissemination
+though it is available on other websites. I find the article to be one of
+many such tirades against India in the Western press and the rebuttal
+very mild. Aniruddha Ghosal and Yanan Wang’s article smacks of
+haughtiness and pride verging on belligerence out to debunk
+traditional societies and wisdom by using choicest epithets generally
+used by left wingers. The authors try to prove WHO reports and
+protocols as if suggested by omniscient gods and the traditional
+believers as fools without realising that science works with the
+principle of hit and try. In the Western media India bashing is quite
+common and they keep on spreading baseless canards because of
+several reasons. Maria Wirth mentions two reasons for this malicious
+attitude of the Western press: “... [The West] saw themselves as
+superior and others not quite as human.” (mariawirthblog) She
+mentions Christianity as the root of this attitude. In another article
+of hers she says some Indians too use the western media to spread
+“pure poison, [and carry out] vicious and dangerous [propaganda].”
+All this takes place because “Hindus are often too naive to realize
+what mind- set the dogmatic religions foster. ... Nobody needs to
+be worried about a nation where the Hindu roots are fostered.”
+(mariawirthblog) The report that “There is a nexus between India’s
+vanguard secularists and anti-Indian forces in Washington and
+Islamabad,” (Rao and Elst) in another case is valid in this case too.
+There are some other such reports as well. For example, “Why is the
+western media biased about India?” (indiaincgroup.com) and “BBC
+to New York Times — Why Indian governments have always been
+warty of foreign press” (theprint.in). Western media (dw.com) apart,
+even most of the Indians have lost touch with their wisdom because
+of a particular kind of attitude inculcated in the Indian modern
+education system developed by Macaulay and fostered by Indian
+leadership even during the post-colonial times. Let us first have a
+look at Macaulayan agenda of education for a better understanding
+of the issue.
+
+Through his enlightenment project Macaulay was “attempting to
+raise up a large class of enlightened natives. [He further hoped] that,
+twenty years hence, there will be hundreds, nay thousands, of natives
+familiar with the best models of composition, and well acquainted
+with Western science. Among them some persons will be found who
+will have the inclination and the ability to exhibit European
+knowledge in the vernacular dialects.” (columbia.edu) These natives
+
+
+--- Page 8 ---
+288 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+were not only to be the men of science but also “a class [of]
+interpreters between us and the millions whom we govern, — a class
+of persons Indian in blood and colour, but English in tastes, in
+opinions, in morals and in intellect.” (columbia.edu) Macaulay’s
+supposition was that Indians (in 1835, the year the Minutes appeared)
+were ignorant of science because he was perhaps surrounded by a
+group of persons who either were not familiar with Indian wisdom
+ot were out to decry it for some reason. Macaulay writes: “I have
+never found one among them who could deny that a single shelf of a
+good European library was worth the whole native literature of India
+and Arabia. The intrinsic superiority of the Western literature is
+indeed fully admitted by those members of the committee who
+support the oriental plan of education.” (columbia.edu) He switches
+his arguments from history to literature, from literature to
+philosophy, from philosophy to utilitarianism and to science so
+frequently that his comments are nothing but sweeping
+generalizations to debunk Indian knowledge and trash Indian
+knowledge-systems. Macaulay’s plan had a covert agenda too. It is
+revealed in his letter dated October12, 1836 to his father Zachary
+Macaulay:
+
+Our English schools are flourishing wonderfully. ... The effect of
+this education on the Hindoos is prodigious. No Hindoo who has
+received an English education ever continues to be sincerely attached
+to his religion. Some continue to profess it as a matter of policy. But
+many profess themselves pure Deists, and some embrace Christianity.
+The case with Mahometans is very different. The best-educated
+Mahometan often continues to be a Mahometan still. The reason is
+plain. The Hindoo religion is so extravagantly absurd that it is
+impossible to teach a boy astronomy, geography, natural history,
+without completely destroying the hold which that religion has on
+his mind. But the Mahometan religion belongs to a better family. It
+has very much in common with Christianity; and even where it is
+most absurd, it is reasonable when compared with Hindooism. It is
+my firm belief that, if our plans of education are followed up, there
+will not be a single idolater among the respectable classes in Bengal
+thirty years hence. And this will be effected without any efforts to
+proselytise, without the smallest interference with religious liberty,
+merely by the natural operation of knowledge and reflection [sic]. I
+heartily rejoice in this prospect .... (Irevelyan, 454-56)
+
+
+--- Page 9 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 289
+
+In this context it is very easy to understand as to why Macaulay
+conceitedly tries to prove the superiority of English over Sanskrit and
+Arabic and replace the latter with the former. The sum that had been
+earmarked by the East India Company “for the revival and
+promotion of literature, and the encouragement of the learned
+natives of India, and for the introduction and promotion of a
+knowledge of the sciences among the inhabitants of the British
+territories” (columbia.edu) was only the pretext for a larger ensnaring
+design that Macaulay prepared. However, all the tall claims of
+“intrinsic superiority and advancement” fell flat in the wake of the
+COVID -19. There are some bold “enlightened interpreters” who
+instead of displaying their “ability to exhibit European knowledge in
+the vernacular dialects” have assumed the role of Macaulay and
+they keep on trying to shame India by donning the role of the
+trumpeters of the former colonial masters.
+
+During the contingent situation of the pandemic, COVID-19,
+which has paralysed the entire world, alternatives are being
+explored everywhere to prepare counter-strategies to meet the crisis.
+The news ' of various conspiracy theories, corrupt Big Pharma and
+the elite and global totalitarianism and slavery has further
+complicated the situation and the issue. Alternative and reliable
+models for health preservation need to be looked for urgently and
+necessarily. In such a context a time-tested and knowledge-based
+system like Ayurveda is the best possible model. The paper argues
+for the adoption of a good and readily existing solution like
+Ayurveda. A Health System is supposed to take care of the following
+issues: a) the identification of an illness b) the causes of some
+particular person’s suffering from some illness? c) the methodology
+to bring an ill body to its normal state and d) the methods for
+checking its spread and recurrence by adopting affordable means.
+Ayurveda is one such system that has logical answers to all these
+issues. Though it is a full-fledged science that needs to be learned
+rigorously, only some glimpses of it are being presented here with a
+view to atouse one’s curiosity to read further and to prove that
+Ayurveda fully empowers an individual and reduces his dependence
+on the government and other outer agencies. It is eclectic in nature as
+rather than promoting any sort regimentation by the elites it
+promotes empowering of the individuals by encouraging them to
+manage theit physical, psychological and spiritual selves by
+maintaining a healthy social and environmental relationship.
+
+
+--- Page 10 ---
+290 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+The Health Science: Ayurveda
+
+The Hindus consider a human being to be as (un)important creature
+and part of the entire Consciousness as any other creature is and
+therefore, they do not give him any special place in Hindu
+Cosmology/ world view, unlike the Christian practice. Despite this
+they developed a science for curing the body of physical and mental
+diseases and physical deformities by administering medicines and
+performing operations” because the Hindus attach the same value to
+a living human body as a scientist attaches to his equipments. The
+study/ science of human body and its relation with entire cosmology
+is popularly known as Ayurveda.” The word Ayurveda* literally
+means: “the text/science that bestows knowledge about life.”
+Amongst several texts on the subject, three viz. Charak Samhita,
+Sushruta Samhita and Vagbhata’s Ashtang, Hridaya are recognised as the
+Great trio (Brihatrayi). The word Ayurveda consists of two
+morphemes viz. ayw and veda. According to Charak Sambita (Sutra
+Sthana 1:42) the conjunction of body (Shareera), sense organs
+(Indriya), mind (Satva) and soul (Atma) is called life (Ayz); the word
+‘Veda’ means knowledge. Hence, Ayurveda means the knowledge of
+the union of body, sense organs, mind and soul. Ayurveda is
+regarded as a sub- veda (Upaveda) of Atharva Veda. It is also called the
+Panchama Veda (the 5th Veda) and is considered to be the Nectar
+
+of Nature (@adeisyarry ayurvedo-amritanam). The six basic principles
+of this Veda (compendium of knowledge) are: the knowledge of
+similarity (samanya), dissimilarity (wvishesha), property (guna),
+substance (dravya), action (karma) and inherence (samvaya). It is
+claimed that by following the above tenets the highest well-being and
+non-perishable life span can be obtained. (Charak Samhita, Sutra
+Sthana\: 27-29)* The encyclopaedic Charak Samhita defines Ayurveda
+as follows: something that bestows the knowledge about life (ayz) is
+ayutveda (Charak Sambita, Sutra Sthana 30:23).' Another place it is
+defined as the treatise which describes Hita ayu (favourable to life),
+Abita ayu (adverse to life), Sukh ayu (healthy life) and dukh ayu
+(diseased life-state) (Charak Samhita, Sutra Sthana 1:41).° Ayurveda,
+therefore, deals with good, bad, blissful and sorrowful life and what is
+wholesome and unwholesome for it, longevity and about what ayu
+(life) is in itself. Ayurveda consists of the following eight branches of
+knowledge: General Medicine (Kayachikitsa), Diseases of eye, ear, nose
+and throat (Shalakya), Surgery (Shalyatantra), ‘Toxicology
+(Agadatantra/ Visha Chikitsa), Paranormal Science / Psychotherapy
+
+
+--- Page 11 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 291
+
+(Bhoot vidya), Obstetrics, Gynaecology & Paediatrics (Kaumarbhritya),
+Rejuvenation/ Anti-ageing treatment (Rasayana) and Reproductive
+sciences or sexual vitality (Vajikarana). (Charak Samhita, Sutra Sthana
+30: 28). This science of life enunciates principles to treat body as a
+whole and concentrates on a personalised approach to every
+individual."
+
+Charak Samhita comprises 120 chapters categorized into eight
+sections, or Shana. They are: Sutra Sthana (Fundamental Principles, 30
+chapters) Nedana Sthana (Primary Causes and Diagnosis, 8 chapters),
+Vimana Sthana (Quantification and Inference, 8 chapters), Sharira
+Sthana (Holistic Human Being, 8 chapters), Indriya Sthana (Lifespan of
+Patients, 12 chapters), Chikitsa Sthana (Management of Various
+Diseases, 30 chapters), Ka/pa Sthana (Pharmacology, 12 chapters)
+and Szddhi Sthana (Modes of ‘Therapeutic Administration, 12
+chapters). The text is written partly in the form of verses (sh/oka) and
+partly in prose. In the last chapter of the Szddbi Sthana (12: 52), it is
+mentioned that there are 12000 verses in the text. However, only
+8419 verses and 1111 prose paragraphs are available now. Charak
+Samhita contains many remarks in the fields of human anatomy,
+embryology, physiology, pharmacology, blood circulation and
+diseases like diabetes, tuberculosis, heart disease, etc which are held in
+reverence even today. The book also describes medicinal qualities and
+functions of more than a million herbal plants. He has emphasized
+the outcome of diet and activity on mind and body. He has proved
+the correlation of spirituality and physical health and has contributed
+greatly to the diagnostic and curative sciences. Charka’s principles,
+diagnoses, and cures retain their potency and truth even after a
+couple of millennia.
+
+The origin of surgery is as old as the warfare. The surgical
+science, known as Shalyatantra, was quite well developed in India.
+Sushruta is widely regarded as the father of Indian surgery. His work
+Sushruta Samhita is known for anatomical knowledge and surgical
+procedural descriptions. The Sashruta Samhita is in two parts, the first,
+called Purva- tantra, is in five sections viz. Sutra Sthana (Introduction
+to Medical Science Especially Surgery, Medical Education and
+Training, Theory of Therapeutic Substances and Dietetics, 46
+chapters), Nidan Sthana (Pathology and Diagnosis, 16 chapters),
+Shareer Sthana (Anatomy and Physiology, 10 chapters), Chikistha
+Sthana (Therapeutics in Various Diseases, 40 chapters) and Ka/pa
+Sthana (Pharmacology, 8 chapters). The second called Ustara-tantra
+
+
+--- Page 12 ---
+292 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+consists of 66 chapters on different branches of medical science viz.
+Shalakayatantra (Etiology, Diagnosis, Prognosis, Prevention and
+Treatment of Diseases in and around the Head, 26 chapters),
+Kaumaryabhritya (Paediatrics, 13 chapters), Kayachikitsa (General
+Medicine, 21 chapters), Bhutvidya (Super-Natural Aetiology, 3
+chapters) and Tantrayukh (Diagnosis Devices 4 chapters). Some of
+the principles for study and the theory and practice as suggested by
+Sushruta are valid even today. For example, for the study of anatomy,
+he suggested dissection of a dead body; for experimental teachings
+he suggested incision on vegetables such as watermelon and
+cucumber and probing on worm-eaten woods. The book deals with
+the principles of traction, manipulation, apposition, stabilization and
+postoperative physiotherapy to manage orthopaedic dislocations and
+fractures. Sushruta discusses measures to induce growth of lost hair
+and removal of unwanted hair. Sushruta is also acknowledged as the
+first dental anatomist of the world and he was familiar with
+techniques of anaesthesia and recovery. He also invented several
+surgical instruments. Rhinoplasty, inoculation against small pox etc
+were practiced in India even as late as the 18th Century AD, as shown
+by Dharampal in his book entitled Indian Science and Technology in the
+Eighteenth Century. The technique for Rhinoplasty as suggested by
+Sushruta is still being used successfully to perform operations.
+(patrika.com)
+
+The third scholar of classical Ayurveda, Vagbhata, a Buddhist, is
+believed to have lived in Sindh around the sixth century. From among
+the several books ascribed to him the Ashtangsangraha'' and the
+Ashtanghridayasamhita’* are most important. Ashtangsangraha consists of
+a total of 150 chapters which are classified as: Sutra Sthana (40
+chapters), Nidana Sthana (16 chapters), Shareera Sthana (12 chapters),
+Chikitsa Sthana (24 chapters), Kalpa Sthana (08 chapters) and
+Khila/ Uttara (50 chapters). Ashtanghridayasambita consists of a total
+of 120 chapters which are classified as: Sara Sthana (30 chapters)
+Nidana Sthana (16 chapters), Shareera Sthana (06 chapters), Chikitsa
+Sthana (22 chapters), Kalpa Sthana (06 chapters), and Khila/ Uttara (40
+chapters). There are a few more important books on the subject like
+Bhava Prakash Samhita, Bhela Samhita, Harit Samhita, Kashyap Samhita,
+Madhava Nidanam and Sharngadhbara Samhita.
+
+
+--- Page 13 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 293
+
+World Health Organization on Health
+
+World Health Organization (WHO) considers “Health ... [to be] a
+resource for everyday life, not the objective of living; it is a positive
+concept, emphasizing social and personal resources, as well as
+physical capacities.” '* WHO defines health as “a state of complete
+physical, mental and social well-being and not merely the absence of
+disease or infirmity”’'* The definition was agreed upon by 61
+signatories in 7946. It has been challenged on several counts’? but it
+has not yet been amended" though the process of changing it is on.
+
+It is clear from the existing definition that a “complete well-
+being” is the objective of WHO; however, the word “complete” in it
+has drawn flakes from the stakeholders as this indicates a sort of
+perfection which is not achievable by any human being. Moreover,
+some parts of the definition are tangible while others are not. Again,
+a “social well-being” cannot be defined without any reference to
+ethical values. So, there is an ample scope of variation in terms of a
+community’s attitude, feelings, understanding and acceptance. In
+otder to implement this definition as a working model further
+classifications and quantifications are needed. Another objection to
+the WHO’s accepted definition is that it does not make a difference
+between the animal and the human needs and it is, therefore, equally
+applicable to the animals. It strengthens Schumacher’s charge that the
+animal model of humanity has grown popular in science. Therefore,
+there is a need to give science/ health a human angle. Schumacher
+(Guide 25-28), in a different context, notes that within the humanities
+the distinction between consciousness and _ self-consciousness is
+seldom drawn. Taking appropriate cues from Buddhism he suggests
+the following four equations to underline the difference between
+animals and human beings:
+
+“Mineral” = m “Plant” = m + x “Animal” = m + x +y
+
+“Human” =mt+xt+ytz,
+
+where m= inanimate matter, x= life-force, y= consciousness and
+z= self- awareness. While m is real, the other three factors (x, y
+and z) experienced by each individual represent ontological
+discontinuities. WHO has made some efforts to make its definition
+more human-centric in practice. For example, while chalking out
+plans for ‘Global Strategy for Health for All by the Year 2000’,
+Desh Bandhu Bisht'® presented a short report, based on
+
+
+--- Page 14 ---
+294 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+Schumacher’s arguments, entitled “Spiritual Dimensions of
+Health”"’. It was accepted by the Executive Board of the WHO (in
+the 73rd session, Agenda Item 11, EB, R3, Seventh meeting,
+EB73/SR/7 dated 16 January 1984) and subsequently recommended
+to the 37" World Health Assembly to “note the Boatd’s conclusions.”
+The reflection paper on the theme also tried to define the term
+“spirituality” in ethical and secular terms by culling out the common
+idea from the meanings in four different dictionaries, two each in
+English and French: Spirituality is “a phenomenon that is not
+material in nature but belongs to the realm of ideas that have arisen
+in the minds of human beings, particularly ennobling ideas.””” The
+definition was slightly expanded in the 37" World Health Assembly
+by adding “beliefs, values and ethics” to this definition: “spiritual
+dimension ... [implies] a phenomenon that is not material in nature
+but belongs to the realm of ideas, beliefs, values and ethics that have
+arisen in the minds and conscience of human beings, particularly
+ennobling ideas.”*' Having conceded that “the spiritual dimension
+plays a great role in motivating people’s achievements in all aspects of
+life’ WHO has called upon the Member States to consider a
+spiritual dimension (as defined in the WHO resolution [see supra] in
+accordance with their own social and cultural patterns” in their
+Health for All” strategies. Further, the Executive Board of WHO
+on the recommendation of the special group has proposed the
+following amendment in the definition of health: “Health is a
+dynamic state of complete physical, mental, spiritual and social well-
+being and not merely the absence of disease or infirmity”” but so far
+neither the definition of health nor the preamble to WHO's
+constitution has been amended to accommodate the proposal.
+However, with the inclusion of spiritual health within WHO’s
+purview, a number of other significant organizations have also
+attended to the spiritual needs and incorporated reference to it in
+their key documents. For example, the action plan “Agenda 21” of
+the United Nations recognizes the right of individuals to “healthy
+physical, mental, and spiritual development”. This has led to some
+research in this direction. For example, it has been reported by
+Ahmad Ghaderi and others in their “Explanatory definition of the
+concept of spiritual health: a qualitative study in Iran”
+(ncbi.nlm.nih.gov):
+
+A large number of systematic reviews showed that spiritual
+health can contribute to positive health outcomes (17). Heidari ef al.
+
+
+--- Page 15 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 295
+
+revealed that spiritual health improves physical well-being and quality
+of life (18). Research conducted on patients with asymptomatic heart
+failure in 2009 indicated that spiritual health is positively related to
+better mental health (19). Rahnama ef a/ also showed that spiritual
+health prevents the emergence of depression and anxiety in patients
+with spinal cord injury (20). This is in agreement with the results of
+the present study that illustrated the positive effect of spiritual health
+on physical, mental and social health. (ncbi.nlm.nih.gov)
+
+Health in Ayurveda: Principles and Practice
+
+The Sanskrit word for health, swastha, has two morphemes: (1) swa=
+mine (my own self/soul/pran/jivatma) and (ii) stha= to be located.
+According to derivational etymology, Swastha is defined as “staying in
+one’s self (or own natural state) with equanimity””’. It is explained as:
+one who stays in its specified place is swastha. As life (ayu) is
+a conglomeration of the four interdependent components namely,
+the body (Shareera), the sensory and motor faculties (Ivdriya), the
+mind (Sava), and the soul (Atma) (Charak Samhita, Sutra Sthana 1:42)”, a
+perfect healthy life necessitates a wellness of all the four and an
+absolute complementary support of all of them. The Ayurvedic
+concept of health, therefore, encompasses the physical, mental,
+sensory and spiritual domains. In Ayurveda a healthy human being
+has been defined as one who has congruent and_ balanced
+musculature, compactness of the body and strong sensory and motor
+units, one who withstands and survives the onslaughts of illness, one
+who is able to endure hunger and thirst, one who successfully braves
+vatiance of atmospheric temperature (high temperature of the sun
+and cold weather), one who can perform exercises (daily chores)
+comfortably and one who is able to digest and assimilate food easily.
+(Charak, Samhita, Sutra Sthana 2118-19)”
+
+The three roots of a human body”, according to Sushruta Samhita,
+ate: dosha (Vataadi Tridosha’'), dhatu (Rasadi Sapta Dhatu*) and mala
+(trimala”); as the life of a tree depends on the strength of its roots, in
+the same way the origin, the maintenance and the destruction of a
+human body depends on these three building blocks. Sushruta Samhita
+details the definition of health in keeping with the spirit of the word,
+swastha and the above three elements: one who has the doshas (primary
+life force) in equilibrium, the ag (digestive fire) in a balanced state,
+well-formed dhatus (tissues), proper physiological functions for
+elimination of malas (excretions etc.) and well-functioning bodily
+
+
+--- Page 16 ---
+296 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+processes, and whose sensory and motor organs, mana (mind), atma
+(soul) and indriya (senses) have enough balance to keep one in a
+pleasant state is called a healthy person or Swastha.* When it is
+restricted to physical body/health of an individual it is known by the
+following aspects: a proper nourishment, a proper strength, a desire
+and appetite for an intake of food, a proper digestion of food
+ingested at proper time, a sleep at proper time, an absence of
+pathological or dreadful dreams, a feeling of freshness after waking
+up in the morning, a proper evacuation of faeces, urine, and flatus at
+the proper time, a proper functioning of mental faculties,
+intelligence and senses in all respects and an absence of any kind of
+pain.
+
+Ayurveda” emphasizes the balance of a body, mind and soul to
+achieve an anatomical, physiological, mental and spiritual well-being,
+Ayurveda aims at maintaining a healthy person’s health (by preventing
+illness), healing the sick by managing dysfunctions of the body and
+curing diseases (of mind, body or both) that manifest in a person,
+protecting health, prolonging and preserving life: “svasthasya svasthya
+rakshanam, aturasya vikara prashamanam” (Charak Samhita, Sutra Sthana
+30: 26).°° It may be noted here that the word used in the verse cited
+above is cure (= shaman) and not suppress (= daman). Ayurveda
+considers human body to be the storehouse of diseases.°’” Ayurveda
+does not act on the principle of killing bacteria or virus but on the
+one that eliminates foreign material that gives birth to them or
+attracts them to the body by using Sodbana (detoxification techniques)
+followed by the Panchkarma.* Remaining healthy is given more
+importance in Ayurveda while managing diseases is given the
+second priority. Health is not only the prerequisite but also the
+objective of a person for fulfilling three basic desires (Eshanas)” of
+human beings viz. longevity, wealth (or materialistic comforts), and a
+blissful afterlife (after death) and for achieving all the four major goals
+(four Purusharthas: Dharma, Artha, Kama, andMoksha) of a human life."*
+
+Diseases: Causes & Cures in Ayurveda
+
+Technically speaking, absence of health is sickness and a person who
+is not healthy is sick (rege). On the basis of the Sushruta’s definition
+cited earlier (Sushruta Samhita, Sutra Sthana 15:10) a person whose doshas
+are not in equilibrium, the digestive fire is not in a balanced state and
+the dhatus (tissues) and malas (wastes) are not working in a normal
+way; the sensory and motor organs and mind, atma are not in a
+
+
+--- Page 17 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 297
+
+pleasant state is called sick (aswastha). “Roga’, the Sanskrit word for a
+
+a> ce
+
+“disease” has many synonyms” like “vyadh?’, “atanka’, “yakshma’,
+“wara’, and “vikarad’. Similarly, “nidan”, the Sanskrit word for word
+for a “diagnosis/ prognostic”, has many synonyms like “Hetu, nimitta,
+ayatana, karta, karana, pratyaya and samutthana’”’. (Charak Samhita,
+Nidana Sthana 1:3) Doing away with the causes that lead to a disease in
+such a manner that they do not reappear or recut is called prognosis/
+treatment. (Sushruta Samhita, Uttaratantra 1: 25)” Nidana is of three
+types: unsuitable contact of sense organs with their objects
+(Asatmyendriyarthasamyoga), intellectual errors or knowingly engaging
+in harmful activities (Pragyaparadha), and seasonal, temporal factors
+(Kala). (Charak Samhita, Nidana Sthana 1:3, op. cit.)
+
+Ayurveda classifies diseases into three categories on the basis of
+their sources/ places of appearance viz. physical, mental and
+environmental.” For example, conditions like boils, physical cuts,
+fractures, intestinal ailments and cough are physical ailments;
+diseases like narcissistic personality disorder, claustrophobia and
+high blood pressure are psychosomatic as they have their source in
+mind; and epidemics like plague, yellow fever, meningitis, a pandemic
+like COVID-19 and the diseases caused by famine or flood are
+environmental as they have their genesis in the environment. Physical
+ailments (Nia/ endogenous) are caused by the vitiation of body
+doshas (vata, pitta and kapha). They are mainly of three types, viz.
+Agneya (pitta dosha dominant diseases), Saumya (kapha dosha dominant
+diseases), Vayavya (vata dosha dominant diseases).*” They are grouped
+as Somatic diseases. The simplest formula for the recovery of a
+patient suffering from the vitiated doshas (humours) is to restore the
+equilibrium of the doshas.
+
+Mental/ psychological (Manasa) ailments are caused by a conflict
+between not getting the desired things and getting non-desired things.
+Sattav (associated with the quality of balance, harmony, goodness,
+purity), Rajas (associated with the quality of passion, desire and
+activity) and Tamas (associated with quality of imbalance, disorder,
+anxiety, impure, and lethargy) are considered to be the bio-chemical
+forces affecting the state of the mind. These (psychic) diseases are of
+two types viz. Rajas dosha dominant and Tamas dosha dominant
+diseases. (Charak Samhita, Nidana Sthana 1:4) Those who are not able
+to control their rajas and tamas (psychological doshas) cannot attain
+salvation.” For a patient’s recovery” from this type of ailments it is
+suggested that the patient has to act wise and ponder over carefully to
+
+
+--- Page 18 ---
+298 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+know as to what is (un)beneficial and has to discard the
+unwholesome regimens. The patient should also, try to acquire
+knowledge about self (atman), place (desha), time (Kala), strength (ba/a)
+and potential/capacity (shakti). He should regulate his conduct related
+to virtue (dharma), wealth (artha) and desire (kama) besides serving the
+wise (who are familiar with the psychological diseases) and following
+their instructions.
+
+Envitonmental/ exogenous ailments (Agantuja) refer to the
+injuries caused by invisible organisms/ factors (bhuta; bacteria/ virus
+eft) from outside like poisonous substances, wind, fire and trauma.
+These diseases are normally averted by three types of strength/
+power/ immunities viz. hereditary, since birth (Sabaja), seasonal or
+periodic (kalga), and acquired (ywktkrita) which are invigorated by
+taking proper food (Asara), proper sleep (dra) and observance of
+celibacy/control of senses (brambacharya).
+
+According to Ayurveda miseries ate caused because of the
+impairment of intellect (dba), controlling power (dhrit) and memory
+(smriti ot tecalling power), ageing/advent of maturity and
+unwholesome contact with objects of senses and deeds. (Charak
+Samhita, Sharira Sthana 1: 98)."° Because of the impairment of the
+intellectual prowess a person starts indulging in inauspicious/
+undesirable deeds. These causes have further been reduced to three
+viz. time, external environmental factors and one’s ability to respond
+to one’s external environment. (Charak Sambita, Sutra Sthana 11: 38 —
+44; Shareera Sthana 2: 40)” Of these the last one is the most important
+one. Unlike the western system of identifying an enemy outside in the
+form of a bacteria or a virus Ayurveda finds the cause of the disease
+largely within the person. Ayurveda holds the unwholesome union
+[excessive utilisation (4#yoga), non-utilisation (ayoga) and wrong
+utilisation (mithyayoga) | of the sense organs
+(asatmyaindriyarthsamyoga), the intellectual defects/ misdoings
+(prajnaparadha) and adaptability to the seasonal effects (kala parinam) as
+the three causes of diseases.”’ Thus, a disease is largely the result of
+an individual’s misdoings and weaknesses. On the other hand, a
+proper utilization and a wholesome union (Samyoga) of the sense
+organs, the actions and the time are beneficial for the maintenance of
+health. Thus, the body and the mind are the abodes of diseases as
+well as health. Proper body-mind interaction is the cause for
+happiness.” It is, therefore, expected that an individual has to pay
+
+
+--- Page 19 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 299
+
+utmost attention to his body- mind interaction in order to stay
+healthy.
+
+If an individual himself is the cause of his disease and he alone
+has to manage it; this proposition should not lead one to conclude
+that there is no need/role of a doctor in Ayurveda. Had that been the
+case there would not have been an occasion for their classification
+into three categories” of the physicians (bhishaj/) viz. pseudo
+physicians/ impostors  (bhishakchadmacarah),  feigned/pretender
+physicians (séddhasadhit), and the genuine physicians with essential
+qualities (vaidya guna yukta / jivitabhisara). The bottom-line in
+Ayurveda is: the unwholesome/sinful acts (pragyaparadba)”? vitiate
+the doshas and an imbalance in the doshas triggers an ailment. The
+identification of the vitiated humour and the strategy to pacify it,
+therefore, is a technical task more so, because unlike the practice in
+the allopathic system, Ayurveda does not suggest a ready- made and
+standard protocol to follow in a particular ailment. Ayurveda generally
+suggests treatments according to the types of the diseases. For
+example, administering medicines or an operation is good for the first
+type (physical) of diseases, chanting of certain mantras has been
+suggested for the second type (mental) and general cleanliness and
+social control have been suggested for the third type (environmental).
+Similarly, it has been suggested that the physical ailments are pacified
+by adopting the remedial measures of the divine and rational
+qualities while the manas dosha can be treated with general and specific
+knowledge, temperance, memory and concentration. (Charak Samhita,
+Sutra Sthana 1:58)."* Thus, it is clear that in absence of a prescribed
+regimented path a physician, according to his perception, experience
+and knowledge, has to chart the path for the equilibrium of the doshas
+leading to the patient’s recovery from the disease.
+
+Ayurveda mentions three kinds of treatment modalities” and
+three kinds of cleansing processes.” The three treatment modalities
+are: a) Divine or spiritual or non-material therapy (Dazvavyapashraya)
+which includes mantra chanting, taking medicines, wearing gems,
+auspicious offerings, oblations, gifts, offerings to sacred fire, sticking
+to the spiritual rules, atonement, fasting, chanting of the auspicious
+hymns (mantras), obeisance to the seniors and the gods, pilgrimages
+etc. b) Therapy based on reasoning (ywktivyapashraya) which includes
+proper regimen of dietetic and life-style, medicine planning,
+panch karma and c) psychotherapy (satwavajaya; dependant on sattwa)
+which includes a withdrawal of mind from harmful objects (Rajasic
+
+
+--- Page 20 ---
+300 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+and Tamasic symptoms). Cleansing is desirable in all the three types of
+diseases to pacify the vitiated doshas of the body. It has three types: a)
+Internal cleansing (Antahaparimarjana) which introduces drugs inside
+body for the treatment of diseases caused by an improper diet etc.,
+b) External cleansing (Bahiparimarjana) which is done over the skin
+by the application of massage, sudation, unction, affusion, applying
+external pressure and kneading over affected body part externally and
+c) Surgical procedures (Shastrapranidana) that include excision,
+incision, puncturing, rupturing, scraping, uprooting, rubbing
+superficially with rough surface, suturing, probing, application of
+alkalis and leeches.
+
+It is clearly suggested that a person who wishes to stay healthy
+should take a wholesome diet, move cautiously, make donations,
+observe equality, remain truthful, and respect venerable people. One
+should have a good behaviour and a forbearing attitude besides
+remaining unattached to the sensual pleasures. One who is endowed
+with such an intellect, speech and (positive) actions which yield good
+results, who has a submissive mind, clear understanding, and
+knowledge, and who does penance and makes continued efforts in
+yoga, does not fall victim to diseases. (Charak Samhita, Shareera Sthana
+2: 46-47)”
+
+It is clear from the above that Ayurveda encourages the
+maintenance of health through a close attention to balance in one’s
+life, right thinking, lifestyle and the use of herbs. Knowledge of
+Ayurveda enables one to understand how to create this balance of
+body, mind and consciousness according to one’s own individual
+constitution and how to make lifestyle changes to bring about and
+maintain this balance.
+
+Ayurveda: The Principles
+
+The modern medical system, in the typical occidental approach of
+looking for the outside/ external forces, considers some bacteria
+and/ ot virus responsible for most of the diseases and therefore
+insists on destroying them. On the other hand, Ayurveda, in the
+typical oriental manner, looks within a person to locate the source of
+a disease within the body. In the Indian/Oriental approach the enemy
+may keep on dwelling outside if the inside is protected enough.
+Therefore, Ayurveda, instead of concentrating on killing a bacteria/
+virus, tries to consolidate the inner strength. So, in Ayurveda it is not
+a constant struggle between good and bad forces but there is an
+
+
+--- Page 21 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 301
+
+effort to balance for a peaceful coexistence. Ayurveda works mainly
+on the following three principles:
+
+Principle 1: Principle of Similarity & Dissimilarity (Samanya
+Vishesha Siddhanta)
+
+The principle of a dravya (substance) that brings about union or
+increase in the dravya’s quality or quantity is called “samanya’” (similar)
+and the principle (of a dravya) that brings about non-union or
+decrease in a dravya’s quality or quantity is called “vishesha’
+(dissimilar/ special)”. (Charak Samhita, Sutra Sthana 1:44-45)
+
+Principle 2: Principle of Five Fundamental Elements (Panch
+
+Mahabhoota Siddhanta)
+
+Each and every cell, organ, organ systems and in general every
+Dravya (substance/ human body) in the universe consists of the
+following five proto elements (Pancha Mahabhoota) that are in different
+proportion in each substance —
+
+« Akasha (space proto element)
+¢  Vaayu (air proto element)
+« Agni (fire proto element)
+¢ Jal (water proto element)
+
+« Prithvi (earth proto element)
+
+Bhoota Associated |Associated Sense| Perception mode
+(Element) Sense Organ
+Akash (Space) Sound Ear Heard
+Vayu (Air) Touch Skin Heard, Felt
+Agni (Fire) Sight/Colour Eye Heard, Felt, Seen
+Jal Water) Taste Tongue Heard, Felt, Seen,
+Tasted
+Prithvi Smell Nose Heard, Felt,Seen,
+(Earth) Tasted, Smelled
+
+Ayurveda says the body is made up of tissues (dbatus), waste
+products (malas), and doshas” (loosely translated as Energetic Forces).
+The five proto elements combined with each other give rise to three
+types of doshas (Tridosha)” viz. vata, pitta and kapha. In Ayurveda, dosha is
+also known as the governing principle as every living thing in nature
+is characterized by the dosha. Dosha means “that which changes/
+
+
+--- Page 22 ---
+302 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+moves.” The doshas are constantly moving in dynamic balance, one
+with the others. Therefore, Tridoshas are responsible for assisting in
+the creation of various tissues in the body and for the removal of any
+unnecessary waste products from the body. Tridoshas influence all
+movements, transformations, sensory functions, and many of the
+other activities in the human body and mind. In short Doshas
+(humours/ energies) ate required for the life to happen. Like the
+ancient Greeks, Ayurveda considers a balance in three doshas
+responsible for health. All of them have to stay in balance to keep a
+body in a healthy and stable state. The following table briefly
+summarises the effects of these humours on a human body:
+
+[Principle Bhoota Chara- Responsible for IExample
+Comp- cteristic
+losition
+\Vata (Air |Vayu, Akash |Prana [The movement of each __ [the act of
+principle) land every atom; provides |respiration,
+
+space for all movements [peristaltic
+
+to occur; and mobilizes |movements in the
+the function of the intestine, excretion
+Inetvous system lof waste from our
+body, movement
+lof nerve impulses
+lin the nerves,
+initiation to do any
+
+work, etc.
+Pitta (Fire |Agni, [Tejas any transformation taking |digestion,
+principle) |Jal/Apas place in our body; the Imetabolism,
+
+temperature changes in [breaking of large
+lour body; and uses bile to |food particles into
+direct digestion smaller ones for
+absorption in our
+body, etc.
+
+
+
+--- Page 23 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 303
+
+Principle |Bhoota Chara- Responsible for IExample
+
+Comp- cteristic
+osition
+ar ; energy storage, the |. ; ;
+Kapha Prithvi, Ojas formation of new  /MMunity, synovial]
+(Water \Jal/Apas structures, protection fluid in joints, mucous}
+principle) lin our body and digestive tract, adipose
+bonding between tissue storing fat, the
+Imolecules in our body § tat,
+
+to form larger stability of the body
+imolecules; relates to land mind, etc.
+Imucous, lubrication >
+land the carrier of
+Inutrients into the
+arterial system
+
+In Ayurveda three words viz. buddhi or intellect, ahamkara ot ego,
+and manas or psyche conceptualize the mind. Each of these works
+together with separate functions. According to ayurvedic theory,
+mental nature is more subtle than physical nature. Sometimes the
+body and mind are different types, one compensating for the other,
+such as a vata mind in a kapha body. The categories of mental
+faculties are linked to #riguna (sattva, rajas and tamas) theory. These
+gunas are responsible for the sensitivity of the mind, its capacity to
+perceive truth and to act accordingly.
+
+In order to prevent a disease Ayurveda adopts a threefold
+approach: monitoring Swasthavrita by following a dinacharya (daily
+routine) and rucharya (seasonal routine), monitoring Sadvrita by
+following religious rituals and good social practices and taking some
+herbal concoctions. For curing a disease, it recommends, cleansing
+the bodies of toxins (Sanshodhan), pacifying the deranged or agitated
+bodily humours (Sazshaman), monitoring personal (mental and bodily)
+acts, and social conduct (Sadvrita), following a regimen of diet
+(Pathyahara), and using medicines (Rasayana).
+
+Dinacharya and Ritucharya
+
+Ayurveda emphasizes the prevention of sickness which in terms of
+modern science means increasing immunity. It suggests a very simple
+formula for achieving this: be aware of oneself and stay in rhythm
+and harmony with nature. Ayurveda suggests regulating one’s daily
+regimen (Dinacharya) and seasonal regimen (Rtucharya) to align human
+bodies with nature’s rhythms to maintain a healthy life on the basis of
+the above discussed principles which must be in consonance with the
+
+
+--- Page 24 ---
+304 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+ten principles of dharma outlined in Manusmriti.’ Vagbhata assutes:
+“One who always resorts to desirable food and regimen, is
+objective, uninterested in sensual affairs, generous, straight
+forward, honest, having patience and who values traditional wisdom
+will never be affected by diseases.” (Ashtang Hridayam, Sutra Sthana 4:
+36). It is also written that “the vigour and complexion (radiance) of
+the person following seasonal dietary and lifestyle regimen are
+enhanced”, (Charak Samhita, Sutra Sthana 6:3).°° The diet includes
+vatious types of food articles which are eatable (ashita), chewable
+(khadita), drinkable (pita) and lickable (dha). The food habits (aabar)
+and the life-style (vhar) are regulated accordingly. Daily and seasonal
+regimens ate respectively dealt with in detail in Matrashiteeya and
+Tasyashiteeya chapters of Charak Samhita, (Sutra Sthana, Chapters 5 &
+6). Chapters 2 and 3 in Vagbahta’s Ashtang Hriday (Sutra Sthana) are
+devoted to daily regime (Diénacharya) and seasonal regimen
+(Ritucharya) respectively. Here is an example of a daily regime
+(Dinacharya) to keep one healthy on the Ayurvedic principles:
+
+1. Wake up in the wee hours.” A healthy individual should
+wake up approximately 80 minutes before sunrise to stay
+healthy and soon after should clean all parts of the body
+including bowls, teeth, tongue, eyes, nose, throat, etc.
+
+2. Daily exercise (vyayama): One should do some Yoga
+exercises (e.g., Sarya Namaskar) ot some other physical
+exercises every day. Technically, activities that result in
+tiredness are termed vyayama (exercise). Doing exercise
+helps one to be capable of daily activities; it increases
+digestive power (agi), reduces fat and keeps a body fit.°°
+Ayurveda also recommends a person’s qualification and the
+time and limit of exercising: One who is strong and eats
+unctuous food everyday should use half of one’s energy to
+do exercise. The same is to be done in winter season and
+autumn. In summer and rainy season, one should use less
+than half energy to do exercise.”
+
+3. Apply oil (Abhyanga) daily: Abhyanga means applying oil
+all over the body in the direction of the hair follicles (anulom
+gati). A daily oil massage reduces premature aging; it keeps
+one young, reduces tiredness, pacifies Vata Dosha, brings
+clarity to the eyes, nourishes the body, facilitates sound sleep
+
+
+--- Page 25 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 305
+
+and makes one’s skin healthy. (Ashtang Hridayam, Sutra Sthana
+2:8)" It’s good to apply oil to the whole body, but if it is not
+possible, one should apply it to one’s face, scalp, into the ears
+and feet. It should not be done if a person is suffering from
+kapha dosha, indigestion and during the course of Shodhan
+therapy. (Ashtang Hridayam, Sutra Sthana 2:9)”
+
+Powder Massage (Uvdartana) everyday: The act of
+massaging with fine medicated powders with some friction
+on the body in the opposite direction of hair follicles with
+high pressure is called as Uvdartana.” It pacifies kaphadosha,
+liquefies fat in one’s body, brings about stability in body
+parts and also makes the skin lustrous.”
+
+Gandusha (Oil Pulling) and Kavala (Gargling): Oil pulling
+(Gandusa) with oil or hot water or Aashaya’” should be done
+every day to prevent decay, oral mal-odour and gum
+bleeding. This has to be done every day in the morning and
+after every meal. Oil-gargling strengthens the jaws and the
+voice; it creates a flabby face and induces good taste for
+food; if one practises it, one will not suffer from the dryness
+of mouth, cracks of lip, diseases of teeth and hoarseness
+of voice.’? (Charak Samhita, Sutra Sthana 5: 78-80) Kashaya or
+Kavala Graha ot Kavala is a procedure of holding
+comparatively small quantity of liquid (oil or medicated or
+simple warm water) in the mouth; make it move briskly
+inside and spitting out quickly. It removes loss of appetite,
+bad taste, dirt and excess salivation from the mouth.
+
+Dress Properly: Keeping in line with Indian traditional
+wisdom of dressing” well it is suggested that one should
+adopt the following practices to maintain personal hygiene
+and make a good appearance in the society: by wearing
+clean apparels, using fragrant articles and garlands, wearing
+jewels and ornaments, cleansing feet and excretory orifices
+regularly, trimming and grooming body hair and_ nails
+frequently, using proper footwear and carrying an umbrella
+to aversive of calamities. This is required for one’s positive
+and productive image building in the society. (Charak
+Samhita, Sutra Sthana 5:95-102)
+
+
+--- Page 26 ---
+306 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+7.
+
+Observe a Regimen of Diet: Unlike modern dietetics,
+which is restricted to the concept of calorie consumption,
+Ayurveda recommends methods of taking food, its quality
+and quantity based upon individual’s capacity to digest (agmi).
+Meals should be had at an appropriate time” and in
+appropriate quantity”
+one’s mouth, washing the feet, hands and face”, only when
+
+, after taking bath and after cleaning
+
+one feels hungry; meals should be the familiar, clean,
+healthy (corresponding to the constitution, etc.), oily /
+moist, unctuous, hot, pleasant to the mind and easily
+digestible. Food-items should be chosen after carefully
+considering one’s own constitution, likes and dislikes and
+should contain all the six tastes (rasa) with the predominance
+of sweet taste; one should have more of pleasant liquid
+food. One should practice mindful eating in a calm, quiet
+environment, paying due attention to the food and chewing
+it properly. This enables better breakdown of food and also
+gives time for the digestive enzymes in one’s mouth to do
+their work properly. One should have meals without any
+bickering, without scolding / abusing the food and without
+too much of talk; in the company of the liked persons and
+served by clean and faithful persons. One should have one’s
+meals after having offered it to the deities, feeding the elders,
+guests, children, mentors, after satisfying even the servants,
+dependents and pets maintained in the house. (Ashtang
+Hridaya Samhita, Sutra Sthana 8: 35-38)" Food substances
+which are fatty, sweet, slow and hard and which are not
+easily digestible should be consumed at the commencement
+of the meal whereas those food items which are opposite in
+nature and quality should be had at the end of the meal; and
+those which are predominantly sour and salty should be had
+in the middle of the meal. (Ashtang Hridaya Samhita, Sutra
+Sthana 8: 45)” The food articles like shashtika tice (Oryza
+sativum), shali tice (varieties of Oryza sativum rice), green gram
+(Vigna radiata), tock-salt, Indian-gooseberry (Phy/anthus
+emblica), barley, rain-water, milk, ghee (clarified butter), meat
+of the animals living in arid areas and honey can be regularly
+consumed for preservation of health. One should take those
+food articles daily, which maintain good health besides
+
+
+--- Page 27 ---
+10.
+
+STAYING HEALTHY: THE AYURVEDIC WAY | 307
+
+preventing the onset of diseases. (Charak Samhita, Sutra
+Sthana 5: 12-13) The postprandial drinks that are not
+harmful to the tissue elements of the body and that are not
+incompatible with the food consumed should be taken.
+(Ashtang Hridaya Sambita, Sutra Sthana 8: 51)°° One should
+regularly have Triphala®' mixed with honey or ghee (clarified
+butter) at night for strengthening one’s eye-sight. (Ashtang
+Hridaya Samhita, Sutra Sthana 8: 44)” One should not talk or
+laugh while eating, or be distracted by other objects”. (Charak
+Samhita, Vimana Sthana 1: 25.9) Such food-items as ate re-
+heated or are contaminated by grass and hair or by insects
+like house flies or very hot/ spicy or salty, consisting mainly
+of vegetables or unwholesome pulses should be discarded.
+(Ashtang Hridaya Samhita, Sutra Sthana 8: 39)"
+
+Regimen after the Meals: The following needs to be
+practiced soon after the meals: mouth gargling, chewing
+beetle leaf (fan) and walking about hundred yards. One
+should not lecture, travel by vehicles, carry loads, expose to
+the sun and retire to bed immediately after the meals.
+(Ashtang Hridaya Samhita, Sutra Sthana 8: 54)”
+
+Observe a fast (Lamghana) once a week. Fasting is a
+detoxing process which is undertaken for practicing the
+“three R’s”: regulating Agni, removing Ama and rebuilding
+Ojas. Whatever is capable of reducing the body is known as
+lamghana® or reducing therapy (Apartarpana). Fasting is one
+among the several types of Lamghana that brings about
+lightness in the body. Skipping supper once a week is
+recommended as it helps in excretion of the waste from the
+body and reduces belching and tiredness (caused without
+working); increases lightness; it improves one’s hunger,
+thirst, digestion, enthusiasm and psychology and cleans the
+sense organs’. (Ashtang Hridaya, Sutra Sthana 14:7)
+
+Use of sauvitanjana & tasanjana: Before retiring to bed
+one should daily apply the collyrtum of  sawiranjana
+(antimony sulphide), which is beneficial to the eyes; one
+should use rasanjana (aqueous extract of Berberis aristata) once
+in every fifth or eighth night for cleansing and drainage of
+the eyes. (Charak Samhita, Sutra Sthana 5: 15)*
+
+
+--- Page 28 ---
+308 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+11. Sleep (Nidra) Properly: One should take proper sleep
+(between 6-8 hours) every night in a clean and pleasant
+environment. One should generally avoid sleeping during the
+day (except in summer). Proper sleep provides health and
+longevity and improves complexion and glow.
+
+12. Stick to Good Conduct (Sadvritta): This world is a
+manifestation of God therefore due respect is to be shown
+to all the living creatures and non-living things. Happiness
+and gaiety should be shared with others for a conductive
+social-life. One should exercise a control on one’s sense
+organs and live a moral life.
+
+Ritucharya and Health
+
+A few chapters in the various sambitas (of Ayutveda) dedicated to
+ritucharya (see supra) discuss the relationship between human health
+and seasonal changes caused by the revolution of the earth and tilt of
+the earth’s axis. The Hindus calculate time according to the
+movements of the earth round the sun (solar calendar) and moon’s
+movement atound the earth (lunar calendar) and make use of both
+the calendars in their daily lives by synchronizing them. The year
+accordingly has two solstices (Ayana) depending on the direction of
+the movement of the sun: northern solstice (Ufarayana ot Aadaan
+kaal) and southern solstice (Dakshinayana or Visarga kaal). Each
+solstice consists of three seasons (Rétus). Thus, six seasons, viz.,
+winter (Shishira), spring (Vasanfa), and summer (Grishma) in Summer
+Solstice (U#arayan) and monsoon (Varsha), autumn (Sharata), and late
+autumn (Hemanta) in Winter Solstice (Dakshinayana) complete one
+cycle of the solat year. The Hindus consider human bodies to be a
+part of nature. They hold that by harmonizing the human bodies
+with seasons better results for human health may be obtained. For
+example, during Ustarayana the seasonal change in the Indian
+subcontinent is from winter (Shzshira) to spring (Vasanta) and to
+summer (Grishma). During this period heat and dryness in the
+weather get increased; the sun weakens the streneth of the people
+and the cooling quality of the earth. It has an overall debilitating
+effect on the environment, to which a human being is also a part. It
+increases the dominance of bitter (7&/a), astringent (Kashaya) and
+pungent (Katu) Rasa, which increase dryness in the body and reduce
+the strength (Bada). Accordingly, one has to plan one’s eating habits
+and routine (aahar and vihar). The six ritus, their properties and the
+predominant tastes are briefly summarized in the following table:
+
+
+--- Page 29 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 309
+IAy- ana = (Ritu Predomin |Effecton Body Dietregimen _ {Lifestyle
+ant Rasa/
+Taste
+¢ __|Predomin ant Same as that of IDiet of Hemanta ‘The Hemanta
+9 Rasa: Tikta |Hemanta ritu. Iritu is to be regimen should
+8 (bitter) followed. be adopted
+§ 5 [Mahabhut a: lwith more
+4 ~~ |Akasha. intensity as
+“nS there is severe
+4 cold and more
+S dryness in this
+season.
+[Predomin ant [Kapha which was [Food should also [The body
+[Rasa: Kashayalincreased in be chosen to Ineeds
+(astrin- gent), [Shishira becomes [mitigate Kapha, {detoxification
+IMahabhut a: liquefied by the heatjwhich is easily _ jand cleansing
+Prithvi and fof the Sun in digestible and dry jin the period of
+|Vayu. |Vasanta. (moisture- free,  |Ritusandhi
+g it diminishes the  |fat-free). Avoid (weather
+s digestive fire (Agni) |food that is hard |change). Pitta
+a land gives rise to Ito digest, cold, [gets reduced,
+z= Imany diseases of _|sour, sweet and which weakens
+H Kapha, like fluid __|fatty, Lassi, Curd, |the body’s
+o g laccumulation in the |Cold Drinks, Ice appetite and
+3 3 joints, increased — |Cream and such body can digest
+B S phlegm in the lungs,jother food items |only light food.
+g land etc. las cause kapha _[Physical
+= dosha. lexercises, dry
+Zz Imassage and
+= little physical
+g work out
+2 should be done,
+[Predomin ant |Vitiated Kapha Sweet, light, fatty [Avoid heavy
+Rasa: Katu  _ |Dosha is pacified —_jand liquid food be|physical
+(pungent) due to the heat of |taken. Water lexercises and
+IMahabhut a: |the sun and dryness |should be taken at|exposure to
+|Agni and lin the air; mild room sunlight during
+c |Vayu. increase of Vaata temperature. this season.
+i} dosha; [Antioxidant food [Avoid the use
+5 the strength of the [items must also belof salt, pungent
+3 person become less. |taken to maintain land sour foods;
+F lgood appetite and juse food- items
+D health. like Amla
+§ lwhich are cool
+= lin nature as
+& their use will
+
+help the body
+lin keeping
+strong appetite,
+itself healthy
+land maintain its|
+temperature.
+
+
+
+--- Page 30 ---
+IAy- ana = (Ritu Predomin |[Effecton Body [Diet regimen [Lifestyle
+ant Rasa/
+Taste
+
+(he already One should use | All general
+debilitated agni lold grains for Imeasures to
+(digestive activity) |food, which Imitigate
+during the summer |should be imbalanced
+decreases further |predominantl-y |Doshas and to
+land gets vitiated by |sour, salty and _ {improve digestive
+the Doshas. The agni unctuous, dry, lactivity should be
+(digestive activity) |mixed with ghee; jadopted. Leafy
+lweakens further andjtake curd, honey vegetables should
+lets vitiated by land easily digesti- be taken
+Vaata. The Doshas _ |ble; sparingly. One
+
+eS start vitiating one soup of pulses, should
+
+2 lanother and cause whey processed _ jundergo
+
+9 g Imany diseases. lwith more of [Panchakar ma
+
+¢ Q Sochal salt and therapies &
+
+B 2 der of administered
+
+ag D lpowde
+
+3 = lpanchakola lasthapana basti
+
+Ba we , should be used. |(decoction
+
+sg IPredomin ant [Foods should be enema therapy).
+g Rasa: Amla hot and light. One should not
+
+Sp > (sour) Ginger, black Imove about on
+
+¢ IMahabhut a: pepper and lemon/foot (move only
+
+S Prithvi and juice may be takenjon vehicles),
+
+Agni. Ito reinforce should use
+
+lappetite.
+
+|Well boiled &
+filtered water
+should be used
+for drinking.
+
+perfumes, expose
+his clothes to
+fragrant fumes,
+dwell in upper
+stories of the
+house, devoid of
+heat, cold and
+snow. River water|
+lis to be avoided
+for drinking.
+
+
+
+--- Page 31 ---
+STAYING HEALTHY: THE AYURVEDIC WAY
+
+| 311
+
+IAy- ana = (Ritu Predomin [Effecton Body Diet regimen [Lifestyle
+ant Rasa/
+Taste
+ISharata, like
+|Vasanta, is also
+the period of
+[Food items having)Ritusandhi when
+Madhura (sweet), |the weather
+lastringent and changes. Day-
+[Tikta (bitter) taste |sleep, excessive
+land having Laghu |eating, excessive
+(light to digest) — fexposure to
+land cold sunlight, etc are
+properties are Ito be avoided.
+advised. [The habit of
+Again, these taking food, only
+food-items that — when there is a
+¢ IPredomin ant Ihave the feeling of
+g Rasa: Lavana [The dry and hot __ [properties to hunger is
+2 (salty) latmosphere pacify vitiated recommended.
+a IPredomin ant jaggravates pitta; Pitta (such as One should take
+= IMahabhut as: [activity Rice, green gram, |water purified by
+< Apa and Agni.lof Agni increas es |sugar, Amla, ithe rays of the
+§ during this season |Patola, and honey)|sun in the day
+3 lare advised. time and rays of
+4 the moon at
+Inight time for
+drinking and
+bathing,
+(Accumulated
+
+Pitta need to be
+removed from
+the body by
+[Vitechan
+(Panchkarma
+therapy).
+Snehpan is also
+done to mitigate
+ithe increased
+Pitta.
+
+
+
+--- Page 32 ---
+312
+
+IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+IPredomin ant
+Rasa:
+
+Digestive activity
+Ibecomes more
+
+Intake of sweet,
+sour and salt taste
+
+food helps in
+
+[A person feels
+hungry early in
+the morning
+due to longer
+Inights. So, after
+
+Madhura lpowerful; Vayu is reducing the vata; jattending to
+< IPredomin ant jaccentuated and bitter, astringent |fablutions, one
+9 IMahabhut as: |needs to be satisfiedjand pungent food |should resort to
+5 Prithivi and —_|by a heavy diet. Imust be avoided |Abhaynga (oil
+4 |Apa. Imassage)
+g especially on
+2 scalp and
+£ forehead with
+é loils that have
+= )Vata balancing
+
+roperties.
+
+Dinacharya, Diet tegimen and Rétucharya have been codified into
+ry 8 ; ry
+proverbs and folk literature” as well for a wide dissemination.
+
+Food in Ayurveda
+
+Everything that ranges between nectar and poison or between
+palatable and unpalatable or potable and non-potable is edible. Food
+can be the source of strength and health if taken properly and
+appropriately. It can also be the source of weakness and disease if
+taken improperly and inappropriately. The following are the
+characteristics of a good food/ diet: it provides satisfaction, power
+and strength (to the body) instantly and increases age, glow,
+enthusiasm, memory, lustre and digestion”. Since the destruction of
+lustre”’ is fatal one should take proper care to maintain and increase
+it. Therefore, it is advised to take the following eight factors into
+account before consuming food as they are responsible for good and
+bad effects on the body (Charak Samhita, Sutra Sthana 28:42)”*: 1.'The
+qualitative characteristics of the food (Prakrt) 2. The processing of
+food (Karana) 3. The combination (Samyoga) 4. The quantity (Rashi) 5.
+The habitat of the person (Desha) 6. The time / seasonal variation/
+stage of the disease (Ka/a) 7. The variable digestibility of various
+food articles (Upayoga Samstha) and 8. The consumer (Upayokta)
+(Charak Samhita, Vimana Sthana 1: 21)”
+
+In Ayurveda the edibles (including the beverages) have been
+classified into the following twelve categories” according to their
+source and form: cereals, pulses, meat, green vegetables, fruits, green
+herbs, alcoholic beverages, water, milk and milk products, sweet
+
+
+--- Page 33 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 313
+
+products including honey, cooked food items, and adjuvant of foods
+(ahara_ yogi varga). Maharshi Kashyap considers food to be a great
+medicine (mahabheshaja) (Kashyap Samhita, Khil Sthana 4: 5-6). In
+Ayurveda the food (ahara) is one of the ten factors (dasa vidha
+pariksha)”® that ate used to determine the state of health of an
+individual. Its importance can be understood from the fact that there
+are four chapters on food (including beverages) in Charak Samhita
+(Sutra Sthana) under the title “Annapana Chatushka’””’ and one chapter
+entitled “Matrashiteeya Adhyayd’ in Swastha chatushka of Sutra Sthana.
+There are three chapters in Ashtang Hnridaya, Sutra Sthana
+[Chapters 5-8 entitled “Drava-Dravya Vinaniya Adhyaya’
+(Knowledge of Liquid Substances), “Annaswarupa Vijnanniya
+Adhyaya” (Knowledge of Food Substances), ““Annaraksha Adhyaya”
+(Protection of Food Substances) and “Matrasitiya Adbyaya’” (Partaking
+Proper Quantity of Food)]. These chapters have details on the
+descriptions of food and beverage, food classification based on their
+taste, therapeutic qualities, food safety and measures for the same,
+different incompatibilities of food based on their tastes, processing,
+dose, time, place, etc., prescriptions of consumption, food qualities
+and intake based on the digestive ability of an individual, and the
+nature of food that is being consumed.
+
+Modern science classifies food in terms of its constituents like
+catbohydrates, proteins, minerals, vitamins, fats, water and the like.
+Food-items ate recommended on the basis of their utility/ deficiency
+in a human body. But Ayurveda says that food-items may be
+classified in a number of ways.” For example:
+
+On the basis of eatability: edibles/ inedibles.
+
+¢ On the basis of their source: those based on vegetable sources
+/ animal sources
+
+© On the basis of their effects on the consumer: a positive effect
+(wholesome)/ an unhealthy, unwholesome, or negative effect.
+
+¢ On the basis of the way it is ingested: drinkables, eatables,
+chewables, and linctuses.
+
+¢ On the basis of the taste (rasa) — six categories viz. sweet
+(madhur), sour (amla), salty (Javana), bitter (#kfa), pungent
+(Katz) and astringent (Kashaya).
+
+¢ On the basis of their texture or properties: twenty types viz.
+
+
+--- Page 34 ---
+314 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+heavy, light, cold, hot, unctuous, dry, slow (dull), sharp, stable,
+fluidity, soft, hard, clear, viscid, refined, smooth, rough, subtle,
+gross, dense (or solid) and liquid.
+
+¢ On the basis of their source, nature and effect: sattvic, rajasic
+
+and s/amasic.
+
+As one should not take unwholesome (Apathya/ harmful) diet.
+Mahrishi Charak gives a long list of wholesome (Pathya/ beneficial)
+and unwholesome food articles (for details see Charak Samhita, Sutra
+Sthana 25: 37-39, 49) which owing to the paucity of space cannot be
+reproduced here. Charak Samhita also details the
+pharmacological principles (aushadhajnana) of wholesome and
+unwholesome diet. Their taste, potency, post-digestive qualities and
+specific properties are important for preservation of health and
+management of disease. The five principles that enable the
+understanding of the mechanism of action of food on a human body
+ate: rasa (taste)”, veerya (potency), guna (quality), vipaka (metabolite) and
+prabhava (specific effect/ potency). A large number of food-items have
+been analysed on the basis of the above bases in the
+“Atreyabhadrakapytya Adhyaya” and “Annapanavidhi Adhyaya”
+(Charak Samhita, Sutra Sthana, Chapters 26 & 27).
+
+In the Ayurvedic texts there is also a discussion about the adverse
+effects of the excessive consumption of a particular rasa. The edibles
+act on a human body by their nature or with the help of their
+inherent qualities. They fall into three categories - some alleviate
+doshas, some vitiate dhatus some ate good for the maintenance of
+positive health and the like. Certain food articles and some of their
+combinations ate incompatible to the body and lead to disease due
+to their antagonistic properties. These are categorized under
+viruddha (incompatible or antagonistic) items. This antagonism may
+be in terms of properties, combination, processing, place, time, dose
+etc. or natural composition’. (Charak Samhita, Sutra Sthana 26: 81)
+Here ate some examples of incompatible food-items mentioned in
+Charak. Samhita. “One should not take any fish along with milk
+particularly chi/chima because it being a great obstructer of channels
+produces these disorders with gross symptoms and also excites
+amavisha. Meat of domestic, marshy and aquatic animals should not
+be taken mixed with honey, sesamum, jaggery, milk, black gram,
+radish, lotus stalk or germinated grains because it causes deafness,
+blindness, tremors, coldness, indistinct voice, dumbness, nasal voice
+ot death. ... Likewise, if one takes rough and cold food in the winter
+
+
+--- Page 35 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 315
+
+and pungent and hot articles in the summer, it is antagonistic in
+terms of time. Honey and ghee taken together in equal quantity is
+antagonistic in terms of dose. The use of sweet and cold substances
+by a person accustomed to pungent and hot is antagonism in terms
+of suitability. ... Antagonistic (viruddha) food is the cause of
+impotency, blindness, erysipelas, ascites, pustules, insanity, fistula-in-
+ano, fainting, narcosis, tympanitis, spasm in the throat, anaemia, ama
+visha, leacoderma, leprosy, grahaniroga, oedema, acid gastritis, fever,
+rhinitis, genetic disorders and even death. (Charak Samhita, Sutra
+Sthana 26: 81-103)'' Therefore, it is advised that one should not take
+food with greed and ignorance but one should consume wholesome
+food after evaluation as the body is formed from food. (Charak
+Samhita, Sutra Sthana 28: 41)" The processing of a material can
+change the potency, safety, and pharmacological effect of the
+material. The case of curd/ yogurt has specially been mentioned.
+(Charak Samhita, Sutra Sthana 7: 61-62)'° It is considered
+unwholesome in most dosha imbalanced conditions. There are specific
+instructions to consume yogurt: it should not be taken at night, or in
+the seasons such as spring, summer, and fall; and that it should be
+taken with sugar candy or green gram soup or honey. For optimal
+functioning of the body and mind, one needs to eat primarily Sattvic
+foods with just enough Rajas and Tamas gunas to that add vigour and
+stability to enable one to stay goal-oriented. An ideal diet must
+consist of fresh or freshly prepared grains, legumes, vegetables,
+fruits, nuts, milk and ghee besides cold-pressed oils and natural
+sweeteners, along with a few, controlled portions of Rayasic and
+Tamasic foods. “When nourishment is pure, reflection and higher
+understanding are pure; memory becomes strong. When memory
+becomes strong, there is release from all the knots of the heart.”
+(Chhandogya Upanishad, 7.26.2)"
+
+Ayurveda and Spices
+
+Geography of India has bestowed it with a wonderful bio-diversity
+that consists of so many unique plants and trees that yield a large
+number of spices. Indian sages have found that there is no plant that
+does not have a medicinal value”. A medicine is also a kind of food-
+item. While food items are valued for their tastes (rasa) prominently,
+medicines are valued for their potency (virya/ guna). The spices ate
+those food-items which are valued for both rasa and guna. As most of
+the spices are abundantly available in India as a natural resource
+
+
+--- Page 36 ---
+316 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+Indians use them richly and intelligently in their everyday life as a part
+of their diet to increase the taste (rasa) of food, to digest the food
+being consumed, to keep healthy and to counter various diseases. It
+has also been noted that the nature of a food item changes in
+certain combinations. For example, the addition of ginger to food
+reduces the latter’s heaviness; ginger taken with rock salt reduces the
+vata symptoms; ginger with honey reduces kapha symptoms. The
+Indian cooks use spices with discretion so that food to be consumed
+gives the maximum benefit to a human body. This knowledge based
+on Ayurvedic principles'”® is generally transmitted traditionally from
+generation to generation. Thus, it shall not be an exaggeration to say
+that Indian kitchen is a sort of pharmacology laboratory.
+
+According to the ayurvedic beej-bhoomi theory of disease, poor
+digestion is the root cause of the most of the disorders. Proper
+digestion is critical for optimal health; everything one eats turns into
+either the tissues of the body or toxins called “ama” — and the
+determining factor is the strength of one’s agui. When the consumed
+food is not digested properly, ama, the by-product of poor digestion
+and metabolism, builds up in the body, clogging the micro-channels
+of the body. Thus, the efficient flow of nutrients to the different
+parts of the body is blocked. Consequently, the immune system is
+weakened and the unrestricted flow of wastes out of the body gets
+hampered. All this prepares a “fertile breeding ground” for an
+infection. Spices help in the proper digestion of the food by
+strengthening the fire element (agmi 1.e., digestive fire), increasing pifta
+and balancing the three doshas. By following this regimen, a
+condition for infection is not created and the person stays
+healthy. It has been said that “the disciplined man who practices
+wholesome diet lives for a period of 36000 nights (one hundred
+years) and is blessed by good people and is free from diseases.”'””
+(Charak Samhita, Sutra Sthana 27: 348). The following spices are
+commonly found and used in Indian households:
+
+1. Asafetida (e777 heeng): It is used in Indian vegetarian cuisines to
+enhance the flavour of numerous dishes. It is considered to be
+an appetizer. It decreases vata and kapha and increases pitta. It is
+useful in curing flatulence, colics, carminative, respiratory
+conditions like asthma, whooping cough and bronchitis.
+
+2. Basil (gerat tu/asi): A basil plant is a must in every Hindu
+household for its spiritual and medicinal importance. It
+
+
+--- Page 37 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 317
+
+balances Vata and Kapha as well as Pitta when used in lesser
+quantities. It is a warming herb and contributes the sweet, bitter
+and pungent tastes. It is valued for its anti-bacterial
+properties, anti-inflammatory effects and antioxidants that
+protect the heart. It creates purity and lightness in the body
+while clearing out body-toxins. Basil leaves are generally used in
+preparing tea or chutney.
+
+. Bay Leaves (9 Ta #7 patta): The bay leaf can be used as whole
+ot ground. It is an aromatic leaf which is used to flavour
+Indian curries, rice dishes, custards and soups. Dried and
+ground, Indian Bay leaves are added to spice mix, Garam
+Masala. They are warming and pacify Kapha and Vata doshas but
+increase P7tta. In Ayurveda, bay leaves are used in teas to help
+soothe respiratory problems and indigestion. It is antt-
+spasmodic, immunostimulant, antioxidant, anti-diabetic and anti-
+inflammatory. It provides strength to the uterine musculature
+and supports the pregnancy.
+
+. Bishop’s Weed (Sar ajwain): Ajwain seeds are used with
+vegetables like lady finger (Okra), taro root (arbi) and others in
+Indian kitchens. It corrects the flow of vata and alleviates
+kapha. As it is a mild laxative that kills parasites, awakens
+digestion and alleviates intestinal spasms, it is used as a
+carminative medicine. Ajwain water, distilled from the seeds, is
+a cure for flatulence, indigestion and low appetite.
+
+. Black Pepper (#reft fr kali mirch): Pepper could be green, white
+ot black in colour, all of which have a very strong flavour. Of
+these, black pepper is a common spice used in Indian cooking
+either as whole or crushed. It is excellent for pacifying Kapha,
+helps pacify Vata and increases Pitta. Pepper provides relief in
+cold, cough and respiratory disorders besides providing relief
+from indigestion and constipation. Black pepper oil in food
+removes toxins from our body, cures a toothache, an earache,
+an insect-bite and helps in skin problems. Apart from these,
+pepper also prevents clothes from fading.
+
+. Cardamom (scret slayachi): Indian households use two
+varieties of cardamom viz. black cardamom (¢/ayachi) and
+
+
+--- Page 38 ---
+318 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+green cardamom (Ezdaria) for their unique aroma and flavour
+in different dishes, particularly milk and milk products. It is
+used to balance kapha and pitta dosha. It boosts digestion and
+fights gastric troubles, constipation and dysentery but reduces
+symptoms of asthma. Green cardamom is also very useful for
+treating sleep troubles. It helps in reducing foul mouth smell,
+lowering blood pressure, improving breathing and
+potentially helps stomach ulcers heal.
+
+7. Red/Green Chillies (ere / ett lal / hari mirch): An Indian meal is
+incomplete without chillies in some form. While green chillies
+are a part of salad dry red chilli powder is an essential addition
+in many finger licking cuisines including chat. Chilli pickles,
+chutney and sauces are also quite popular. In its characteristics
+like pungency, taste and flavour it matches black pepper. It
+reduces vitiated Kapha and Vara and increases Pitta. It improves
+digestion and develops blood; it is a very rich source of vitamin
+C, which helps in developing the immune system.
+
+8. Cinnamon (eet dalhini): Cinnamon /Cassia bark is a strong
+aromatic, sweet, pleasant and warm astringent. Cinnamon
+sticks are added to whole cloves and green cardamom pods,
+when sauteing onions and ginger etc. in oil. They are also a key
+ingredient in garam masala and masala chai. It has warming
+properties and pacifies Kapha and balances Vata. It has anti-
+inflammatory properties and is said to be a mood lifter. It is
+used for treating rheumatism and other inflammations. It is
+also useful as a food preservative to inhibit the growth of
+common food-borne bacteria such as Salmonella and E
+coli.
+
+9. Clove (e#1 /aung): Cloves, whole or ground, are used in a
+number of traditional Indian dishes notably, sauces, soups and
+rice dishes. In spite of its intense flavour and aroma clove is
+said to be cooling by the ancient texts. Because of this special
+effect that clove possesses, it is considered balancing for all
+three doshas (Vata, Pitta, Kapha), although it increases Pitta
+(heat) when taken in excess. Clove powder and oil are very
+effective in treating fever, problems related to the head,
+nausea, ypertension, disorders of the nose, sore gums,
+
+
+--- Page 39 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 319
+
+toothache, improving digestion and strengthening the immune
+system.
+
+10.Coriander (afar dhaniya): Coriander is used both as a herb and a
+spice. It has an aromatic scent with undertones of citrus. The
+leaves are generally used to make chutney and to give an aroma
+to the curries. It balances all the three doshas. Coriander seeds
+are a good household remedy for many Péa disorders,
+particularly those of the digestive tract or urinary system.
+Regular use of coriander in one’s diet lowers bad cholesterol,
+increases good cholesterol, promotes a healthy digestive
+system, and helps prevent eye problems.
+
+11.Cumin (sf jeera): Cumin is commonly used to add flavour to
+meals in various ways and forms. It is used with most of the
+cutries, butter milk and fruits. Roasted cumin is an essential
+ingredient of savoury chat. It pacifies Kapha Dosha and Vata
+Dosha and increases Pitta Dosha. It 1s also reduces Sama Pitta
+condition (Pitta detoxifier). It improves taste, aids in digestion,
+boosts the immune system, treats skin disorders, fights cancer
+and treats respiratory problems.
+
+12.Curry Leaf @# Ta kari patta): Curry leaves (also called sweet
+neem leaves) ate vibrant green, teardrop-shaped glossy leaves
+that have a lemon scent and a distinct, pungent taste. Whole
+sprigs of fresh curry leaves are often fried in ghee or cooking
+medium with other spices and then stirred into any curry.
+Curry leaves have mild laxative properties that not only help
+the stomach eliminate waste from the system, but also clears
+the body of ‘Ama (toxic waste) and balances the pitta levels in
+the body. Curry leaves help in increasing good cholesterol,
+treating diabetes, relieving indigestion, and fighting against
+ulcers. They are viewed as anti-inflammatory, anti-carcinogenic,
+and anti-microbial.
+
+13.Fennel (a saunj): In size and shape fennel seeds resemble
+cumin but are different in colour. Most of the Indians have a
+few fennel seeds at the end of every meal to beat bad breath
+and freshen up their mouths. The seeds have a cooling effect
+on the body. They are one of the best herbs for digestion as
+they strengthen agai without ageravating pitta; they check
+
+
+--- Page 40 ---
+320
+
+IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+cramping and dispel flatulence. They are also a concentrated
+source of minerals like Calcium, Copper, Iron, Magnesium,
+Manganese, Potassium, Selentum, and Zinc and Vitamin C.
+
+14.Fenugreek (42 meth): Indians use fenugreek leaves as curry and
+
+seeds as spice. They give the dishes a sweet yet slightly bitter
+taste. It increases vata and pitta and reduces kapha. Some of the
+health benefits of this herb/spice include healing mouth
+ulcers, eliminating dandruff, healing stomach disorders,
+relieving sore throats, easing menstrual discomfort, and
+increasing milk production in breast- feeding mothers.
+
+15.Garam Masala (IRA Fare): Garam masala is a blend of ground
+
+spices like bay leaf, black and green cardamom pods, black and
+white peppercorns, cinnamon, cloves, coriander, cumin, fennel
+and mace. The flavours may be carefully blended to achieve a
+balanced effect. It is generally used in Indian curries. Its
+function is to keep the digestive agai working to its optimum so
+that increased metabolism is in place. Its use lowers blood-
+sugar levels, reduces bloating and aids in detoxification and
+fights bad breath. It increases one’s ability to absorb vitamins,
+minerals, and proteins.
+
+16.Ginger (He adarak): Ginger stimulates digestion and recovers
+
+appetite. Indians use both fresh and dry ginger (saunth) very
+frequently in their cooking and beverages. In Ayurvedic
+terms it decreases vata and kapha and increases pitta. It is
+commonly used in gastro-intestinal disorders like vomiting,
+nausea, indigestion and respiratory conditions like cold,
+cough, asthma and congestion.
+
+17.Mace (sifeat Javitri): Mace, the outer covering of nutmeg, is
+
+more delicate in flavour than nutmeg; it tastes like a
+combination of pepper and cinnamon. It is added to the
+desserts for the flavour and is used in small quantities in garam
+masala. It is tich in minerals like calcium, magnesium,
+phosphorus, manganese, zinc, copper and iron and in several
+vitamins like Vitamin A, C, B1 and B2. It is hot in constitution
+and balances vata and kapha doshas. It removes mucus,
+improves skin tone, complexion, taste and appetite and is tonic
+
+
+--- Page 41 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 321
+
+for heart. It is also anti- bacterial, anti-viral, anti-cancer, anti-
+inflammatory, anti- diabetes and heptoprotective.
+
+18.Mint (gé7 pudina): The mint leaves, fresh or dried, are used by
+Indians largely in preparing various beverages and chutney. The
+leaves have a watm, fresh, aromatic, sweet flavour with a cool
+after-taste. Mint has the quality to pacify all the three doshas and
+chiefly manages the Pitta dosha. It aids in weight loss, digestion
+and skin care, treats asthma and common cold, cures headache,
+improves brain power, masks bad breath, eases symptoms of
+morning sickness or nausea and beats stress and depression.
+
+19.Mustard (aa sarason): In Indian households mustard seeds are
+used as a spice to flavour curries and pickles. Green mustard
+leaves are used to prepare curry. Mustard oil is used for
+frying various edibles and cuisines. It decreases vata and pitta
+and increases kapha. It is known for its high anti-inflammatory
+effects. The high source of magnesium in mustard seeds helps
+reducing the severity of asthma attacks and certain symptoms
+of rheumatoid arthritis, reducing weight, controls cholesterol
+and diabetes and lowering blood pressure.
+
+20.Nutmeg (aed jayaphal): Nutty and slightly sweet, nutmeg is
+an intense spice that has a strong and distinct aroma. It is an
+ingredient in the spice blend, garam masala. In Indian cuisine,
+nutmeg is used in many sweet as well as savoury dishes,
+predominantly in Mughlai cuisine. It contains powerful anti-
+inflammatory plant compounds that act as antioxidants. It is a
+kapha and vata dosha suppressant. It is valued for its ability to
+relieve pain, soothe indigestion, detoxify the body, boost skin
+health, reduce insomnia, increase immune system function and
+improve blood circulation.
+
+21.Saffron (4a Kesar): It is one the costliest spices in the World and
+hence it is used only on special occasions in the Indian
+households. It smells a bit like sweet hay and contributes a
+luminous yellow-orange colouring to foods. It balances the
+Vata, Pitta and Kaphadoshas in our body. It has anti-carcinogenic,
+anti-mutagenic, immunomodulating, and  antioxidant-like
+properties. It increases appetite but reduces indigestion,
+diarrhoea, vomiting and acidity. It is also considered to be a
+
+
+--- Page 42 ---
+322 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+cardiac tonic.
+
+22.Turmeric (@ea ha/di): Turmeric powder is a very common spice in
+Indian households. It imparts a golden yellow colour, earthy
+aroma and pungent and slightly bitter flavour to foods. It is
+used mostly in savoury and sweet dishes. It is another popular
+Ayurvedic remedy. It is valued for its anti- oxidant, anti-
+tumoural, anti-microbial, anti-inflammatory, anti-hepatotoxic,
+anti-hyperlipidaemia, and insect repellent effects. It is widely
+used to heal wounds and cuts. It is also used in anemia,
+inflammatory conditions and skin diseases.
+
+The spices because of their wide uses, appeal and acceptance
+have attracted the attention of the world towards India and the Far
+East. In fact, the European desire to have an easy access to the
+Indian spices led to the discovery of a new sea route rounding Africa
+from Western Europe to India in 1498. It changed the face of the
+world for ever. It left an indelible impact on the world; it resulted in
+the proclamation of the King Manuel of Portugal as the ‘Lord of the
+Navigation, Conquest and Commerce of Ethiopia, Arabia, Persia
+and India’ and he soon became “the wealthiest ruler of Europe”
+(Saraiva, 334) and earned for himself the sobriquet of “the Spice
+King.” The import of this appellation can be gauged from the
+following remark of George Birdwood that amplifies the power
+relation between spices and the rulers: “...the history of modern
+Europe, and emphatically of England, is the history of the quest of
+the aromatic gum resins and balsams, and condiments and spices, of
+India, Further India, and the Indian Archipelago” (Birdwood, 101)
+
+Of late so many researches’ debunking the time-tested claims
+
+about the good effects of the spices have appeared. It could be a fall
+out of the rivalry the Modern medical system, backed by the
+powerful lobby of the multi-billionaire modern Pharma industry, has
+with Indian traditional systems (spices included) because of their
+value in terms of healthy solutions, number of the followers, huge
+Indian population and money. However, the undeterred Indians
+continue with their habits and keep on maintaining their health using
+the natural gifts. Even during the Corona-2019/20 crisis Indians have
+emerged victorious without much monetary investment as compared
+to other countries. This may be attributed to the natural
+immunisation of Indians through Indian kitchen pharmacopeia
+though currently there is no authentic study to (dis)prove this claim.
+
+
+--- Page 43 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 323
+
+Ayurveda and Epidemics
+
+In Ayurveda the term janapadodhvansa is a generic term for natural and
+man-made calamities. There is a full chapter devoted to this issue
+under the title “Janapadodhvansaniya Vimana” in Charak Samhita (Vimana
+Sthana, Chapter 3). It deals with the causes of the environmental
+calamities (goes beyond epidemics), leading to annihilation of
+communities along with their remedial measures. An epidemic affects
+all those individuals who irrespective of their individualistic
+characteristics in constitution (humour and skeleton), dietary habits,
+physical strength, vitality, habits, psychic make up and age are not
+able to sustain the stress caused by the environmental factors and
+therefore are affected by this phenomenon. In Ashtangsangraha, the
+concept of janapadodhvansa has been described under the chapter
+entitled Viruddhanna Viynaniyam (Ashtangsangraha, Sutra Sthana chapter
+9). Sushruta refers to the concept of janapadodhvansa while discussing
+seasonal regimen (rtucharya) under the title “Maraka?’ (Sushruta
+Smahita, Sutra Sthana 6:17). He uses different terms for them like,
+Alagantuj (exogenous disease), Kalbalpravrutta (ecological disease),
+Adhidawik (Natural/ Seasonal) and Aadhibhotik (caused by
+environmental stresses). These diseases may be
+
+1. due to abnormal and normal season (Kalakrut-Vyapann
+rutuknit and Avyapann rutukrit)
+
+2. caused by supernatural agencies like lightning and thunder and
+by evil spirits (Daivavalapravrut-Vidyut-asanikrut and Pisachakrut)
+
+3. infectious and idiopathic and functional - timely and untimely
+(Samsargaj and Akasmik, Swabhavavalakrut-Kalakrut and Akalkrut)
+
+According to Mahrishi Charak contamination in any one or more
+of the following four environmental factors in progressive order on
+the basis of their indispensability - air (vayv), water (udaka), land
+(desha), and season (ala) - results in an outbreak of an epidemic.
+Charak writes that it is easier to correct the vitiation of vayu, udaka
+and desha, than of udaka, desha and kala. (Charak Samhita, Vimana
+Sthana 3: 10-11)" Charak tells the following causes of the vitiation of
+the above factors: the sinful acts (Adbarma) committed during an
+individual’s present life and the past lives, intellectual errors
+(prajnaparadha), non-performing or shirking from one’s religious duties
+and the curses by the elders, the wise, the nobility, the sages and the
+preceptors. Large scale deaths also come from violence perpetrated
+
+
+--- Page 44 ---
+324 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+attacks on or by the enemies; the root causes of this sort of violence
+are excessive greed (/obha), anger (krodha), attachment (moba), and
+disregarding the weak.
+
+Charak further says that the life span of all living beings depends
+on the proper coordination of two factors, namely, daiva (divine/pre-
+determined) and purushakara (human effort). Daiva means one’s own
+deeds in the previous life while purushakara stands for one’s actions in
+this life. Therefore, the one who follows a wholesome regimen and
+who has collected and processed proper medicaments (before the
+calamities) is likely to survive the hard times. Besides, Charak
+suggests the following dos and don'ts:
+
+Dos: Truthfulness, compassion for living beings, charity,
+sacrifices, worshipping God, observance of right conduct, tranquility,
+prophylactic protection of oneself and seeking one’s own good,
+residing in a wholesome country, practicing celibacy (brahmacharya),
+rendering service to the celibates, discussing religious scriptures,
+constantly associating with the righteous, the well-disposed and with
+those who ate approved of by the elders - all this with a view to
+protecting life has been termed ‘medicine’ to those who are not
+destined to die in that critical time. (Charak Samhita, Vimana Sthana 3:
+12-18)"
+
+“One should abstain from excessive, negative and perverted use
+of time, actions, and senses. It is important to control emotions, not
+suppress the natural urges (to pass bodily wastes), and avoid over-
+exertion. One should resort to the right and gradual habituation (and
+not a rapid or quick adoption) to behaviour and dietetic articles
+which are antagonistic to the prevailing region, season and one’s
+own constitution.” One should suppress the urges that need to be
+controlled (Charak Samhita, Vimana Sthana 3: 36, 38)'"'
+
+Don’ts: “One should not have excessive (of one’s own digestive
+power or agni) and irregular meals, an irregular posture of the body,
+an excessive indulgence in sex and an evil or wicked company; one
+should not suppress the manifested natural urges and should not
+avoid proper treatment and medicines if afflicted with an injury, a
+poison, wind and fire, a disease or with evil spirits (germs)” (Charak
+Samhita, Vimana Sthana 3: 37-38)'
+
+The therapeutic modalities are incorporated in the disease
+prevention protocol in Ashtang Hridayam. (Ashtang Hridayam, Sutra
+Sthana, chapter 4) Maharishi Charak suggests that in order to meet the
+
+
+--- Page 45 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 325
+
+exigency of epidemics herbs possessing good quality of taste (rasa),
+potency (veerya), metabolism of diet and drugs (vjpaka) and specific
+attribute (prabhava) should be collected well in advance, before the
+signs of the epidemic start appearing. The principle of treatment
+according to Charak should be the administration of antagonistic
+therapies to their causes (vitiated doshas). (Charak Sambita, Vimana
+Sthana 3: 36, 41-42)' Besides he has suggested three kinds of
+depletion (Apatarpana) [(viz., reducing therapy (/amghana), reducing
+therapy along with therapies for digestion of ama dosha (lamghana
+pachana) and elimination of vitiated doshas from the body
+(doshavasechana)| (Charak Sambita, Vimana Sthana 3: 43)''\* and five
+kinds of elimination therapies (viz., emesis, purgation, enema- niruha
+and anuvasana types and errhines) followed by rejuvenation treatment
+(rasayana chikitsa) with medicinal herbs collected before the onset of
+epidemics as a remedy. (Charak Samhita, Vimana Sthana 3: 13-14)'”
+
+Ayurveda and Covid-19
+
+Ayurveda is a way of life. So, when one reads the Gwidelines for
+Ayurveda Practitioners for Covid-19 (https://www.ayush.gov.in/docs/
+ayurved-geuidlines.pdf) one hardly comes across any new and special
+outline that has not been discussed above as the general principle of
+health. In Ayurveda, healthy drinks/foods, called  Svastha-hita-
+dravyas''®, are indicated in the form of Rasayana and Vajikarana. Ojas is
+considered to be responsible for immunity (Vyadhikshamatva). It is
+achieved by two approaches viz., Vyadhi Bala Virodhitva and
+Vyadhyutpadaka Pratibandhakatva. Among them
+Vyadhibalavirodhitva is achieved by improving the immunity of an
+individual’s body, while Vyadhyutpadaka Pratibandhakatva is created by
+using specific recipes for the prevention of a disease. AYUSH
+protocol classifies the patients into two groups and accordingly some
+medicines have been suggested:
+
+© 1st stage — Swasa-Kasa symptoms with Fever (Jwara) (COVID-19
+positive or negative with mild symptoms)
+© 2nd stage — Vata-Kapha pradhan Jwara (Fever) (COVID-19
+positive with specific symptoms at moderate level)
+The following twelve guidelines that are in sync with the WHO
+protocol have been issued by the Ministry of AYUSH:
+
+1. Stay aware of the latest information on the COVID-19
+
+
+--- Page 46 ---
+326 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+. Maintain Hygiene
+. Keep Social Distancing
+
+. Take additional care of elderly persons and children
+
+An BR WwW N
+
+. COVID-19 positive women can breastfeed if they wish to do
+so.
+
+6. DIET: Proper nutrition is to be ensured through freshly
+cooked hot food considering individual’s digestive power.
+Intake of comfortable warm fluids boiled with medicinal herbs
+(preferably Shanthi, Dalchini, Trikatu) should be used as a regular
+drink to maintain hydration. Freshly prepared easily digestible,
+light diet (Laghu-supachyaahara) should be taken.
+
+7. Cope up with stress as it is normal to feel stressed, scared or
+angry during the lockdown period.
+
+8. Practice Yogasanas and Pranayama daily for at least 30
+minutes.
+
+9. Adequate sleep of 7-8 hours at night is essential and should be
+encouraged.
+
+10. Avoid self-medication if any comorbidities exist; prescribed
+medicines ate to be encouraged to be taken under
+supervision.
+
+11.Seasonal regimen (Rétucharya) under the consultation /
+supervision of Ayurveda Physician should be encouraged.
+
+12.Usage of adequate Personal Protective Equipment (PPE)
+during medical practice as advised by health care authorities is
+to be encouraged.
+
+Accordingly, some single drugs and formulations have been
+suggested for enhancing immunity. Besides, some Lifestyle Tips
+(Dinacharya) for boosting immunity have been suggested. However,
+efforts to debunk this life style including Ayurveda continue
+particularly in the western media in the name of scientific thinking.
+(See supra)
+
+Ayurveda and the Principles of Health Promotion
+
+“Health promotion is the process of enabling people to increase
+control over, and to improve their health.’ (Health Promotion
+
+
+--- Page 47 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 327
+
+Glossary, 1998) Health promotion is comparatively a new idea in the
+West as it was initiated with the first International Conference on
+Health Promotion in Ottawa in 1986. The basic strategies for health
+promotion identified in the Ottawa Charter were: advocate (to
+boost the factors which encourage health), enable (allowing all
+people to achieve health equity) and mediate (through collaboration
+across all sectors). This is an integral approach that has traditionally
+been adopted by Indian society and the Ayurvedic system. Ayurveda
+fits into all the principles of Health Promotion proposed by WHO
+(https://www.who.int/news-room/q-a- detail /what-is-health-
+promotion#):
+
+1. Ayurveda involves the population as a whole in the context of
+their everyday life, besides focusing on people at risk for
+specific diseases. It enables people to take control over, and
+responsibility for, their health as an important component of
+everyday life — both as spontaneous and organized action
+for health.
+
+2. Ayurveda is directed towards action on the determinants or
+causes of health. Ayurveda works with a dose of cooperation
+of sectors beyond health services, reflecting the diversity of
+conditions which influence health. A government has least
+responsibility but tries to ensure a ‘total’ environment
+conducive to health, which is beyond the control of
+individuals and groups.
+
+3. Ayurveda combines diverse but complementary methods and
+approaches, including communication, education, — self-
+regulation, environmental and economic concerns, local
+resources, community support and spontaneous local activities
+against health hazards.
+
+4. Ayurveda seeks an effective and concrete public participation
+by moulding behaviour on a dharmic model. This works on the
+principle of problem-defining and decision-making life-skills
+both individually and collectively.
+
+5. Ayurveda is not only a medical service but it is an activity that
+combines health, environment and dharmic way of life in
+individual and social fields. The government should encourage
+it to bring stress (in fields like self-reliance, costly medication,
+
+
+--- Page 48 ---
+328 | IMPACT OF PANDEMIC ON SOCIETY, CULTURE AND EDUCATION
+
+law and order, physical, mental, social and spiritual health)
+under control.
+
+Conclusion
+
+The life-style of Indians revolves round the notion that they are not
+immortal beings as they are fed on the wisdom of the following lines
+of the Bhagavadgita (2:27)'"’ since childhood: “Death is certain for one
+who has been born, and rebirth is inevitable for one who has died.
+Therefore, one should not lament over the inevitable.” In this light it
+is noticeable that most of the tips given above are mainly concerned
+with keeping one healthy and fit and preventing premature aging by
+boosting immunity and improving digestion. The effort is directed at
+providing essential nutrients to our body without much expenditure.
+If one includes Yoga and Pranayam to one’s daily routine one can stay
+healthy very easily without seeing a doctor. Consequently, it brings
+down expenses on medicines/ doctors quite considerably. “He who is
+temperate in his habits of eating, sleeping, working and recreation
+can mitigate all material pains by practicing the yoga system.”
+(Bhagavadgita, 6: 17) In fact the rules to keep a body healthy are so
+simple that even an animal knows/practices them. Most of the things
+to maintain one’s good health are available abundantly and almost
+free of cost. This approach of keeping healthy is good for an
+individual and a society but bad for those who calculate the health of
+economy in terms of GDP and measure human index in terms of
+expenditure incurred on medicines. They value a surge in the sale of
+the pharmaceutical products more as it implies a boost in the Pharma
+sector of the share market. In the economic terms this shows a
+growth of the economy which has a direct impact on increasing the
+GDP. The Western economists consider it to be a good sign for
+booming economy; the modern Indians just ditto the opinion of
+their former colonial masters. For them, the increasing sale of
+medicines indicates that people ate paying more attention to their
+health and increasing their work-capacity. To a traditional Indian it
+is quite a deplorable situation as it means more and more people are
+falling ill. There are some who cannot live without increasing GDP
+but there are also some others who say an individual’s or a society’s
+health is more important than the growth in GDP for the increased
+growth of GDP is not the indicator of people’s good health or their
+happiness.
+
+
+--- Page 49 ---
+STAYING HEALTHY: THE AYURVEDIC WAY | 329
+
+In the light of the above discussion, one may safely conclude that
+
+Ayurveda is a time-tested knowledge of health-care and may be
+adopted by all people without any sort of regimentation. The people
+of the world and the UNO, therefore, must start paying due attention
+and due respect to the traditional wisdom and should move forward
+with a scientific temperament shedding their biases, adopting
+whatever is good and discarding whatever is rotten, irrespective of
+the geographical location and origination. Let me end the entire
+discussion above with some of the wishes that Hindus make after
+their prayers:
+
+1. May peace radiate there in the whole sky as well as in the vast
+
+ethereal space everywhere! / May peace reign all over this
+earth, in water and in all herbs, trees and creepers! / May peace
+flow over the whole universe! /May peace be in the Supreme
+Being Brahman! /And may there always exist in all peace and
+peace alone! /Aum peace, peace and peace to us and all
+beings! '"*
+
+. May the well-being of all people be protected by the powerful
+
+and mighty leaders with law and justice! /May the success be
+with all divinity and scholars, May all the worlds become
+
+. Om, May all be happy! / May all be free from illness! / May all
+
+see what is auspicious! / May no one suffer! / Om peace,
+peace, peace!'””
+
+. May there be well-being in all! / May there be peace in all! /
+
+May there be fulfilment in all! / May there be auspiciousness in
+all! /Om peace! peace! peace!
+
+Notes
+
+1.
+
+The Germans are rising up against Bill Gates, demanding humanity wake up
+and reject the self-styled “world health dictator”, as well as corrupt Big
+Pharma and the elite who are driving the world towards “global
+totalitarianism” and “slavery.” (https://newspunch.com/biggest-crowd-in-
+german-history-rises-up-against-bill-gates-and-big-pharma-in-berlin/?fbclid=
+IwAROP8jQFbKV7XY V59M70voJoOW V1b4dQ0uVk4uRF89k1 2lrzcorbQf£N
+OzxY)
+
+Surgical science, known as Salya-tantra, was quite well developed in India.
+Sushruta is widely regarded as the father of Indian surgery. His work Sushruta
+Samhita is known for all aspects of general medicine, anatomical knowledge
+
