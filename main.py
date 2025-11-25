@@ -7,31 +7,24 @@ from pydantic import BaseModel
 from langchain.memory import ConversationBufferMemory
 from perplexity import Perplexity
 
-# Import your local modules
-# Ensure these files are in the same directory as main.py
 from utils import load_user_data, llm
 from input_to_llm import extract_chats, extract_goalfocus
 
-# --- CONFIGURATION ---
-# This enables persistent storage on Render. 
-# Locally, it defaults to the current directory (".").
+
 DATA_PATH = os.getenv("PERSISTENT_DATA_PATH", ".")
 PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
 
-# Initialize FastAPI app
 app = FastAPI()
 
-# Initialize specialized clients globally if they are thread-safe
+
 perplexity_client = Perplexity(api_key=PERPLEXITY_API_KEY)
 
-# --- DATA MODELS ---
-# This defines what data the frontend must send us
+
 class ChatRequest(BaseModel):
     user_id: str
     message: str
     username: str = "User" # Default to "User" if not provided
 
-# --- HELPER FUNCTIONS ---
 def get_user_files(user_id: str):
     """Generates unique file paths for each user so they don't clash."""
     return {
@@ -44,18 +37,15 @@ def load_memory_from_file(history_path: str) -> ConversationBufferMemory:
     memory = ConversationBufferMemory()
     if os.path.exists(history_path):
         with open(history_path, 'r', encoding='utf-8') as f:
-            # Read the file line by line (assuming your JSONL format)
-            # Adjust this logic if your actual file format is different
+    
             try:
-                 # Reading the whole list if you saved it as a list of lists JSONL
-                 # Based on your original code, it looks like you might be saving lists of dicts
-                 # This part might need tweaking depending on EXACTLY how extract_chats works
+        
                  pass 
             except Exception:
                 pass
     return memory
 
-# --- API ENDPOINT ---
+
 @app.post("/chat")
 async def chat_endpoint(request: ChatRequest):
     try:
@@ -65,10 +55,6 @@ async def chat_endpoint(request: ChatRequest):
         
         files = get_user_files(user_id)
         
-        # 1. Initialize Memory (omitted for brevity...)
-
-        # 2. Calculate Focus and Goals
-        # --- FIX: Check if files exist before reading ---
         if os.path.exists(files['history']):
              last_three_convos = extract_chats(files['history'])
         else:
@@ -78,13 +64,9 @@ async def chat_endpoint(request: ChatRequest):
              prev_goalandfocus = extract_goalfocus(files['focus'])
         else:
              prev_goalandfocus = "Goal: Establish initial contact. Topic: Introduction."
-        # 1. Initialize Memory for this specific request
-        # For simplicity in this MVP, we'll use a fresh memory buffer 
-        # and rely on your 'extract_chats' for historical context in prompts.
-        # ideal state: rebuild ConversationBufferMemory here from files['history']
+      
         memory = ConversationBufferMemory() 
 
-        # 2. Calculate Focus and Goals (LLM Call 1)
         # Note: We use your existing extract_chats but point it to the user-specific file
         last_three_convos = extract_chats(files['history']) if os.path.exists(files['history']) else "No history yet."
         prev_goalandfocus = extract_goalfocus(files['focus']) if os.path.exists(files['focus']) else "No focus yet."
@@ -109,13 +91,12 @@ async def chat_endpoint(request: ChatRequest):
         ALso, if the user isn't talking anymore about the previous topic, you can change the topic as well. Thats why i am providin gyou the previous focus and goal
 
         '''
-        # ... (Keep the rest of your focus prompt instructions) ...
+ 
         
         focus_response = llm.invoke(focus_context)
         
-        # Save Focus/Goal securely
+   
         try:
-            # Wrap in try/except in case LLM doesn't output perfect JSON
             json_string_to_parse = "{" + focus_response.content + "}"
             parsed_json = json.loads(json_string_to_parse)
             with open(files['focus'], 'a', encoding='utf-8') as f:
@@ -124,7 +105,7 @@ async def chat_endpoint(request: ChatRequest):
         except json.JSONDecodeError:
             print("Warning: Could not parse focus/goal JSON from LLM")
 
-        # 3. Generate Main Response (LLM Call 2)
+     
         current_goalandfocus = extract_goalfocus(files['focus'])
         
         # We need to manually load history if we want it in the prompt 
@@ -157,8 +138,7 @@ async def chat_endpoint(request: ChatRequest):
         response = llm.invoke(main_context)
         bot_reply = response.content
 
-        # 4. Save Chat History
-        # Saving in your specific format
+
         new_interaction = [{
              "human": user_input,
              "ai": bot_reply
@@ -169,12 +149,12 @@ async def chat_endpoint(request: ChatRequest):
             json.dump(new_interaction, f) 
             f.write('\n') 
 
-        # 5. Perplexity Search (LLM Call 3)
-        search_query = f'''Suggest some stories, podcasts, videos, blogs...
-        [... use your full original prompt here ...]
+        search_query = f'''Suggest some stories,podacsts, videos, blogs 
+        This is your list of user history based on his current question {user_input} and also the current response as generated by another LLM: {response}. Now based on this you need to figure if even it is necessary to give any resources. 
+        If really necessary and find high quality, very good resources otherwise just output a very very good quote of the day in the format
+        "Quote of the day: <quote>" 
         '''
-        
-        # We use the global perplexity_client here
+    
         search_results = []
         try:
              search = perplexity_client.search.create(
@@ -186,7 +166,6 @@ async def chat_endpoint(request: ChatRequest):
         except Exception as e:
             print(f"Perplexity search failed: {e}")
 
-        # 6. Return JSON response to the frontend
         return {
             "bot_reply": bot_reply,
             "resources": search_results,
